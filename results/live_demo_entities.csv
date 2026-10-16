@@ -1,0 +1,24 @@
+entity_group,score,word,start,end
+Disease,0.9999434,diabetes mellitus,97,114
+Disease,0.9999445,diabetes mellitus,577,594
+Disease,0.99993336,dm,596,598
+Disease,0.9998548,metabolic disorder,617,635
+Disease,0.99992806,mitochondrial dysfunction,646,671
+Disease,0.9999036,diabetic complications,756,778
+Disease,0.606535,β,1299,1300
+Disease,0.6714473,cell dysfunction,1301,1317
+Disease,0.99983263,insulin resistance,1319,1337
+Disease,0.99994296,diabetic nephropathy,1339,1360
+Disease,0.99990857,dn,1362,1364
+Disease,0.99994767,diabetic cardiomyopathy,1367,1390
+Disease,0.99988985,dcm,1392,1395
+Disease,0.99994713,diabetic retinopathy,1398,1418
+Disease,0.99986935,dr,1420,1422
+Disease,0.9999456,diabetic osteoporosis,1430,1451
+Disease,0.9997781,dop,1453,1456
+Disease,0.99991274,inflammation,1532,1544
+Chemical,0.99996316,metformin,1677,1686
+Chemical,0.9999529,sodium,1688,1694
+Chemical,0.9999486,glucose,1695,1702
+Disease,0.99995315,diabetes,2125,2133
+Disease,0.99992037,pcos,2354,2358

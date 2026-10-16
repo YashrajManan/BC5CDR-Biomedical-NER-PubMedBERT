@@ -1,0 +1,3300 @@
+chemical,disease,co_mention_count
+pilocarpine,seizures,18
+pilocarpine,status epilepticus,15
+haloperidol,catalepsy,14
+cocaine,chest pain,14
+doxorubicin,cardiotoxicity,13
+heparin,thrombocytopenia,10
+pilocarpine,seizure,10
+levodopa,PD,9
+levodopa,dyskinesia,8
+DOX,cardiotoxicity,8
+levodopa,Parkinson's disease,7
+doxorubicin,toxicity,7
+cocaine,seizures,7
+cocaine,MI,7
+methamphetamine,psychosis,6
+cyclophosphamide,cystitis,6
+CYP,cystitis,6
+dexamethasone,multiple myeloma,6
+ATRA,APL,6
+GABA,seizures,6
+MK-801,seizure,6
+lidocaine,myocardial infarction,6
+picrotoxin,seizures,6
+PAN,nephropathy,6
+OCs,VTE,6
+"d,l-sotalol",torsades de pointes,6
+ifosfamide,encephalopathy,5
+doxorubicin,cardiomyopathy,5
+heparin,thrombosis,5
+pilocarpine,brain damage,5
+5-FU,cardiotoxicity,5
+CYA,cardiotoxicity,5
+amphetamine,hyperactivity,5
+carbamazepine,myocarditis,5
+vincristine,SIADH,5
+mirtazapine,RLS,5
+heparin,HIT,5
+RAD001,NSCLC,5
+Botox,ADSD,5
+Botox,paralysis,5
+temsirolimus,tumor,5
+levodopa,dyskinesias,4
+METH,depressive,4
+TAC,seizures,4
+STZ,memory impairment,4
+Dex,hypertension,4
+argatroban,thrombocytopenia,4
+cisplatin,nephrotoxicity,4
+mannitol,nephrotoxicity,4
+rocuronium,myalgia,4
+iAs,cancer,4
+caffeine,panic attacks,4
+phenobarbital,idiopathic epilepsy,4
+diphenylhydantoin,lymphadenopathy,4
+isoproterenol,myocardial infarction,4
+levodopa,hypotensive,4
+fluoxetine,mania,4
+busulfan,neurotoxicity,4
+suxamethonium,muscle fasciculations,4
+clonidine,hypotension,4
+aminoglycoside,nephrotoxicity,4
+MSG,seizure,4
+APAP,nephrotoxicity,4
+isoproterenol,tachycardia,4
+SNP,hypotension,4
+sodium nitroprusside,hypotension,4
+scoline,pain,4
+granisetron,vomiting,4
+ISO,stenosis,4
+lamivudine,hepatitis B,4
+DA,hyperprolactinemia,4
+lithium,hypercalcemia,4
+PTU,vasculitis,4
+vincristine,hyponatremia,4
+creatinine,leukocyturia,4
+adenosine,hyperactivity,4
+carboplatin,retinoblastoma,4
+Vigabatrin,visual field defects,4
+dexamphetamine,catalepsy,4
+trazodone,catalepsy,4
+olanzapine,schizophrenia,4
+warfarin,stroke,4
+caffeine,anxiety,4
+NO,hypertension,4
+lamivudine,chronic hepatitis B,4
+bupivacaine,pain,4
+remifentanil,hypotension,4
+flecainide,delirium,4
+alcohol,depression,4
+acetaminophen,ALF,4
+acetaminophen,CLD,4
+galactose,cognitive deficits,4
+dex,MM,3
+RD,RRMM,3
+contrast,nephropathy,3
+scopolamine,amnesia,3
+STZ,neurotoxicity,3
+methotrexate,acute lymphoblastic leukemia,3
+methotrexate,neurotoxicity,3
+etomidate,myoclonus,3
+midazolam,myoclonus,3
+dexmedetomidine,bradycardia,3
+quetiapine,agitation,3
+tranexamic acid,seizures,3
+valproate,encephalopathy,3
+capsaicin,hyperalgesia,3
+dexamethasone,ocular hypertension,3
+propofol,hypotension,3
+Doxorubicin,cardiotoxicity,3
+argatroban,thrombosis,3
+cisplatin,acute kidney injury,3
+metformin,cognitive impairment,3
+Ca,arrhythmia,3
+metformin,myocardial infarction,3
+terbinafine,sinus bradycardia,3
+metoprolol,sinus bradycardia,3
+GFC,seizure,3
+rocuronium,fasciculation,3
+lithium,nephrogenic diabetes insipidus,3
+amlodipine,dysguesia,3
+isoproterenol,myocardial ischemia,3
+diazinon,lung cancer,3
+diazinon,cancer,3
+caffeine,panic disorder,3
+dobutamine,chest pain,3
+levetiracetam,seizure,3
+Verapamil,hyperprolactinemia,3
+EACA,SAH,3
+D-Glucarates,renal damage,3
+levodopa,parkinsonian,3
+rifampin,hemolysis,3
+rifampin,acute renal failure,3
+serotonin,paranoid,3
+lithium,status epilepticus,3
+lithium,seizures,3
+NMDA,status epilepticus,3
+adrenaline,hypertension,3
+creatinine,acute renal failure,3
+isoproterenol,heart hypertrophy,3
+theophylline,asthma,3
+nifedipine,hypertension,3
+indomethacin,hyperkalemia,3
+clonidine,bradycardia,3
+beclomethasone,hoarseness,3
+flurothyl,seizure,3
+Flurothyl,seizure,3
+isoniazid,seizures,3
+denopamine,cardiac failure,3
+sodium pentobarbital,hypersensitivity,3
+PAP,nephrotoxicity,3
+BNPP,nephrotoxicity,3
+FZP,convulsions,3
+cyclosporine,infections,3
+Aza,infections,3
+diazepam,seizures,3
+vasopressin,hypertension,3
+haloperidol,hyperprolactinemia,3
+fluoxetine,dyskinesias,3
+cocaine,myocardial infarction,3
+lidocaine,MI,3
+cisplatin,vomiting,3
+sumatriptan,myocardial infarction,3
+gentamicin,nephropathy,3
+GM,nephropathy,3
+phenylephrine,hypertension,3
+CD-832,myocardial ischemia,3
+apomorphine,amnesia,3
+folinic acid,breast cancer,3
+Heparin,thrombocytopenia,3
+heparin,osteoporosis,3
+L-DOPA,dyskinesias,3
+helodermin,hypotension,3
+remoxipride,aplastic anemia,3
+L-NOARG,catalepsy,3
+lithium,bipolar,3
+olanzapine,weight gain,3
+PTU,Graves' disease,3
+cocaine,preterm infants,3
+thalidomide,prostate cancer,3
+androgen,prostate cancer,3
+superoxide,ototoxicity,3
+carboplatin,toxicity,3
+5-FU,AGC,3
+FA,AGC,3
+indinavir,leukocyturia,3
+cocaine,hyperactivity,3
+amiodarone,bradyarrhythmia,3
+ethambutol,optic neuropathy,3
+tacrolimus,dermatitis,3
+ribavirin,anemia,3
+apomorphine,catalepsy,3
+glucose,schizophrenia,3
+risperidone,schizophrenia,3
+olanzapine,insulin resistance,3
+clozapine,insulin resistance,3
+warfarin,hemorrhage,3
+warfarin,atrial fibrillation,3
+aspirin,ESRD,3
+dopamine,RLS,3
+domperidone,RLS,3
+5-FU,precordial pain,3
+chlorpromazine,schizophrenic,3
+acetaminophen,AMI,3
+caffeine,PD,3
+caffeine,MDP,3
+BCNU,cortical dysplasia,3
+losartan,nephropathy,3
+ADR,nephropathy,3
+aspirin,CVD,3
+argatroban,HIT,3
+heroin,ischemic stroke,3
+heroin,rhabdomyolysis,3
+paroxetine,delirium,3
+acetaminophen,FHF,3
+acetaminophen,cerebral edema,3
+crack cocaine,HIV infection,3
+crack cocaine,HIV seroconversion,3
+pilocarpine,SE,3
+carbamazepine,hypersensitivity,3
+levodopa,neuropsychiatric-like behaviors,3
+cocaine,cardiac dysfunction,3
+STZ,diabetic nephropathy,3
+temsirolimus,MCL,3
+daptomycin,meningitis,3
+famotidine,delirium,2
+clopidogrel,hepatitis,2
+Bortezomib,multiple myeloma,2
+dexamethasone,MM,2
+bort,MM,2
+BPA,anxiety,2
+everolimus,amyloidosis,2
+everolimus,proteinuria,2
+TDF,Fanconi syndrome,2
+linezolid,loss of vision,2
+levobupivacaine,cardiac toxicity,2
+heparin,thrombocytopenia type II,2
+heparin,HIT type II,2
+ecstasy,impulsiveness,2
+ecstasy,Depression,2
+MDMA,Depression,2
+alcohol,Depression,2
+ecstasy,depression,2
+Levodopa,Parkinson's disease,2
+diazinon,hyperlipemia,2
+Crocin,hyperlipemia,2
+cisplatin,HL,2
+GEM,HL,2
+contrast,cancer,2
+bevacizumab,Hypertension,2
+Contrast,nephropathy,2
+MTX,neurotoxicity,2
+bupivacaine,cardiotoxicity,2
+propofol,cardiotoxicity,2
+fluconazole,thrombocytopenia,2
+fluconazole,agranulocytosis,2
+fentanyl,myoclonus,2
+phosphorus,poisoning,2
+phosphorus,hepatotoxicity,2
+NMDA,encephalopathy,2
+ketoconazole,baboon syndrome,2
+pilsicainide,atrial fibrillation,2
+All-trans retinoic acid,acute promyelocytic leukemia,2
+ATRA,acute promyelocytic leukemia,2
+cyclophosphamide,lymphoma,2
+lomustine,lymphoma,2
+cyclophosphamide,toxicity,2
+nelarabine,neurotoxicity,2
+Valproate,encephalopathy,2
+Valproate,hyperammonemic,2
+dexamethasone,Waldenstrom macroglobulinaemia,2
+bortezomib,Waldenstrom macroglobulinaemia,2
+dexamethasone,bacterial infections,2
+DOX,toxicity,2
+glutamate,allodynia,2
+glutamate,hyperalgesia,2
+capsaicin,allodynia,2
+acetic acid,OIH,2
+Rg1,OIH,2
+doxorubicin,mitochondrial dysfunction,2
+doxorubicin,breast cancer,2
+doxorubicin,cancer,2
+amiodarone,atrial fibrillation,2
+amiodarone,myxoedema coma,2
+argatroban,thrombolysis,2
+heparin,thrombolysis,2
+argatroban,HITT,2
+heparin,HITT,2
+dehydroepiandrosterone,schizophrenia,2
+DHEA,schizophrenia,2
+S-53482,toxicity,2
+cisplatin,cancer,2
+pentylenetetrazole,seizures,2
+metformin,seizures,2
+Ca,poisoning,2
+aconitine,poisoning,2
+aconitine,myocardial injury,2
+aconitine,arrhythmia,2
+metformin,left ventricular dysfunction,2
+tetrabenazine,neuroleptic malignant syndrome,2
+tiapride,neuroleptic malignant syndrome,2
+Ethambutol,optic neuropathy,2
+Testosterone,memory impairment,2
+streptozotocin,memory impairment,2
+testosterone,memory impairment,2
+simvastatin,Rhabdomyolysis,2
+sirolimus,nephropathy,2
+CsA,renal damage,2
+succinylcholine,fasciculation,2
+succinylcholine,myalgia,2
+lithium,polyuria,2
+suxamethonium,apnea,2
+artesunate,malaria,2
+isoproterenol,myocardial injury,2
+betaine,myocardial ischemia,2
+Quetiapine,neutropenia,2
+quetiapine,neutropenia,2
+steroid,neuropathy,2
+steroid,lateral epicondylitis,2
+ozone,Parkinson's disease,2
+metolachlor,cancer,2
+metolachlor,liver cancer,2
+BaCl2,arrhythmia,2
+chloroform,arrhythmia,2
+adrenaline,arrhythmia,2
+cyclophosphamide,carcinoma of the renal pelvis,2
+cyclophosphamide,hydroureteronephrosis,2
+cocaine,toxicity,2
+amiodarone,TdP,2
+melphalan,Acute renal insufficiency,2
+melphalan,ARI,2
+melphalan,renal injury,2
+crack cocaine,corneal ulcers,2
+levetiracetam,idiopathic epilepsy,2
+levetiracetam,seizures,2
+MTX,acute renal failure,2
+warfarin,MB,2
+warfarin,ICH,2
+risperidone,hyperprolactinemia,2
+oestrogen,endometrial disease,2
+oestrogen,hyperplasia,2
+diphenylhydantoin,Pure red cell aplasia,2
+diphenylhydantoin,skin rash,2
+diphenylhydantoin,pure red cell aplasia,2
+EACA,thrombi,2
+propranolol,idiopathic orthostatic hypotension,2
+propranolol,hypertension,2
+L-dopa,parkinsonian,2
+DPH,seizures,2
+aminoglycoside,acute renal failure,2
+methotrexate,central nervous system leukemia,2
+tetracycline,fatty liver,2
+triglyceride,depression,2
+tetracycline,depression,2
+bromocriptine,hyperprolactinemia,2
+bromocriptine,amenorrhea,2
+CBZ,asterixis,2
+corticosteroid,Fanconi's anemia,2
+androgen,Fanconi's anemia,2
+N-(2-hydroxypropyl)methacrylamide,cardiotoxicity,2
+HPMA,cardiotoxicity,2
+capsaicin,post-herpetic neuralgia,2
+capsaicin,PHN,2
+diethylcarbamazine,encephalitis,2
+misoprostol,delirium,2
+calcium,hypercalcemic,2
+danazol,hereditary angioedema,2
+CHP,burn,2
+CHP,pain,2
+dopamine,seizures,2
+lindane,seizures,2
+lithium,seizure,2
+NMDA,brain damage,2
+amphetamine,seizures,2
+Haloperidol,seizures,2
+haloperidol,seizures,2
+estrogen,renal carcinomas,2
+diethylstilbesterol,renal carcinomas,2
+biperiden,Bradycardia,2
+labetalol,hypotension,2
+halothane,hypotension,2
+isoflurane,hypotension,2
+halothane,hypotensive,2
+ouabain,ventricular tachycardia,2
+alkylxanthines,acute renal failure,2
+gentamicin,acute renal failure,2
+alkylxanthines,ARF,2
+adenosine,ARF,2
+creatinine,nephrotoxic,2
+gentamicin,ARF,2
+Procaterol,bronchial asthma,2
+propranolol,heart hypertrophy,2
+oxitropium bromide,asthma,2
+penicillin,anaphylaxis,2
+valproic acid,dementia,2
+naloxone,amnesia,2
+naloxone,retention deficit,2
+scopolamine,retention deficit,2
+alfentanil,muscle fasciculations,2
+streptozotocin,diabetic,2
+streptozotocin,cardiotoxic,2
+isoproterenol,cardiotoxic,2
+streptozotocin,diabetes,2
+ibuprofen,seizures,2
+etoposide,malignant glioma,2
+aminonucleoside,nephrosis,2
+PS,FSGS,2
+AMNS,FSGS,2
+carbamazepine,aplastic anemia,2
+Imipramine,hypertension,2
+CYA,aplastic anemia,2
+ether,seizure,2
+gamma-vinyl-GABA,seizures,2
+pilocarpine,convulsions,2
+dipyridamole,coronary artery disease,2
+carbamazepine,downbeat nystagmus,2
+hydrochlorothiazide,hypertensive,2
+prostaglandins,nephropathy,2
+lidocaine,ventricular tachycardia,2
+pilocarpine,catalepsy,2
+barium,hypersensitivity,2
+PPA,hypertension,2
+PAN,glomerular sclerosis,2
+nicotine,seizures,2
+bis(p-nitrophenyl) phosphate,nephrotoxicity,2
+morphine,seizures,2
+Vasopressin,hypertension,2
+quinacrine hydrochloride,atrial thrombosis,2
+propranolol,Alternating sinus rhythm,2
+doxorubicin,nephrotoxicity,2
+doxorubicin,immunocytoma,2
+halothane,bradycardia,2
+DSP4,hyperactivity,2
+cyclophosphamide,ovarian cancer,2
+adriamycin,ovarian cancer,2
+hexamethylmelamine,ovarian cancer,2
+methoxyflurane,renal tubular acidosis,2
+rifampicin,acute renal failure,2
+ATP,hypotension,2
+apomorphine,dyskinesias,2
+apomorphine,motor disability,2
+dopamine,dyskinesias,2
+dopamine,motor disability,2
+dopamine,Parkinson's disease,2
+levodopa,motor disability,2
+fluoxetine,motor disability,2
+indomethacin,renal dysfunction,2
+indomethacin,cirrhosis,2
+misoprostol,cirrhosis,2
+indomethacin,cirrhotic,2
+ACE inhibitors,angio-oedema,2
+cisplatin,nausea,2
+granisetron,nausea,2
+Flumazenil,seizures,2
+isoproterenol,cardiac hypertrophy,2
+AVP,hypertensive,2
+SN,hypotension,2
+warfarin,coagulopathy,2
+epinephrine,cardiac injury,2
+clentiazem,cardiac injury,2
+epinephrine,ischemic lesions,2
+epinephrine,fibrosis,2
+cocaine,myocardial ischemia,2
+epinephrine,dysrhythmias,2
+epinephrine,VT,2
+estrogen,hemorrhagic,2
+CD-832,coronary stenosis,2
+isoproterenol,coronary stenosis,2
+ISO,myocardial ischemia,2
+CD-832,stenosis,2
+puromycin aminonucleoside,nephropathy,2
+nefiracetam,amnesia,2
+Lamivudine,hepatitis B,2
+oral contraceptives,venous thromboembolism,2
+progestagens,VTE,2
+desogestrel,VTE,2
+gestodene,VTE,2
+OC,VTE,2
+MK-801,brain damage,2
+Scopolamine,seizure,2
+pentobarbital,seizure,2
+5-fluorouracil,breast cancer,2
+paclitaxel,breast cancer,2
+"d,l-sotalol",ventricular tachyarrhythmias,2
+"d,l-sotalol",ventricular fibrillation,2
+"d,l-sotalol",ventricular tachyarrhythmia,2
+"d,l-sotalol",ventricular tachycardia,2
+dopamine,hyperprolactinemia,2
+all-trans-retinoic acid,acute promyelocytic leukemia,2
+ATRA,acute renal failure,2
+DEP,manic,2
+CO2,pain,2
+albuterol,asthma,2
+heparin,eosinophilia,2
+heparin,skin reactions,2
+heparin,allergic reactions,2
+heparin,alopecia,2
+methylphenidate,neuroleptic malignant syndrome,2
+cyclosporin A,hypertension,2
+nifedipine,psoriatic,2
+cyclosporin A,psoriatic,2
+cyclosporin A,hypertensive,2
+nifedipine,gingival hyperplasia,2
+cyclosporin A,gingival hyperplasia,2
+dobutamine,ventricular tachycardia,2
+5-fluorouracil,hyperammonemic encephalopathy,2
+5-fluorouracil,cancer,2
+5-FU,hyperammonemic encephalopathy,2
+ammonium,bacterial infections,2
+morphine,hypoactivity,2
+morphine,hyperactivity,2
+K,hypoactivity,2
+K,hyperactivity,2
+meloxicam,hepatitis,2
+nitric-oxide,catalepsy,2
+dobutamine,left ventricular dysfunction,2
+dobutamine,coronary artery disease,2
+dobutamine,ischaemia,2
+fenfluramines,PPH,2
+tacrolimus,optic neuropathy,2
+amphotericin B,nephrotoxicity,2
+amphotericin B,toxicity,2
+amiodarone,myocardial infarction,2
+dronedarone,myocardial infarction,2
+platinum,ovarian cancer,2
+platinum,toxicity,2
+doxorubicin,hand-foot syndrome,2
+doxorubicin,stomatitis,2
+Doxil,toxicity,2
+olanzapine,bipolar mania,2
+tropicamide,pupil dilation,2
+methoxamine,stress incontinence,2
+propylthiouracil,Graves' disease,2
+PTU,hyperthyroidism,2
+cocaine,heart disease,2
+sotalol,TdP,2
+sotalol,QT prolongation,2
+azimilide,QT prolongation,2
+cocaine,subependymal cysts,2
+aminoglycoside,ototoxicity,2
+PDN,anxiety,2
+carboplatin,cervical carcinoma,2
+doxorubicin,cervical carcinoma,2
+Levodopa,ocular dyskinesias,2
+glyceryl trinitrate,dysmenorrhea,2
+diclofenac,dysmenorrhea,2
+DCF,dysmenorrhea,2
+GTN,dysmenorrhea,2
+ibuprofen,hypoxaemia,2
+CY,toxicity,2
+CY,cystitis,2
+5-fluorouracil,gastric cancer,2
+folinic acid,gastric cancer,2
+5-FU,toxicity,2
+FA,toxicity,2
+indinavir,human immunodeficiency virus type 1-infected,2
+indinavir,nephrotoxicity,2
+nicergoline,AIN,2
+amiodarone,AF,2
+thalidomide,peripheral neuropathy,2
+paracetamol,overdose,2
+paracetamol,acute liver failure,2
+carboplatin,abnormal ocular motility,2
+glycopyrrolate,gustatory hyperhidrosis,2
+lithium,nephrogenic DI,2
+ribavirin,chronic hepatitis C,2
+adriamycin,cardiotoxicity,2
+ADR,cardiotoxicity,2
+gentamicin,tubulointerstitial nephritis,2
+olanzapine,schizoaffective disorder,2
+glucose,insulin resistance,2
+risperidone,insulin resistance,2
+P,hypersensitivity,2
+N,hypersensitivity,2
+nicotine,anxiety,2
+pentylenetetrazole,anxiety,2
+erdosteine,nephrotoxicity,2
+VCM,nephrotoxicity,2
+alpha-fluoro-beta-alanine,cardiotoxicity,2
+FBAL,cardiotoxicity,2
+monoHER,cardiotoxicity,2
+DOX,cardiac damage,2
+Bpd,AF,2
+Bpd,AFL,2
+methadone,QT interval prolongation,2
+nitric oxide,hypertension,2
+LNNA,hypertension,2
+chlorpromazine,EPS,2
+dopamine,stroke,2
+BIA 2-093,seizures,2
+eslicarbazepine acetate,seizures,2
+anthraquinone,renal injury,2
+CAA,necrosis,2
+galantamine,autism,2
+aspirin,AMI,2
+rofecoxib,AMI,2
+acetaminophen,toxicity,2
+Quinine,arrhythmia,2
+quinine,severe malaria,2
+quinine,premature ventricular contraction,2
+quinine,jaundice,2
+zinc acetate,lichenoid dermatitis,2
+penicillamine,Wilson's disease,2
+zinc acetate,Wilson's disease,2
+GTN,drop in blood pressure,2
+cytarabine,cerebral vasospasm,2
+VAL,essential hypertension,2
+HCTZ,essential hypertension,2
+VAL,hypokalemia,2
+HCTZ,hypokalemia,2
+caffeine,panic attack,2
+piperacillin/tazobactam,GTCS,2
+melatonin,cortical dysplasia,2
+rifampicin,glomerulonephritis,2
+fluoxetine,retinal vein occlusion,2
+PGE2,pain,2
+azathioprine,anemia,2
+thalidomide,CLE,2
+thalidomide,neurotoxic,2
+adriamycin,nephropathy,2
+adriamycin,hypertensive,2
+losartan,hypertensive,2
+losartan,glomerulosclerosis,2
+losartan,proteinuria,2
+losartan,atrophy,2
+propranolol,cardiac arrhythmias,2
+VPA,NAFLD,2
+VPA,obesity,2
+carbimazole,vasculitis,2
+aspirin,strokes,2
+aspirin,gastrointestinal bleeding,2
+aspirin,hemorrhagic strokes,2
+methadone,ischemic stroke,2
+ouabain,mania,2
+citrate,toxicity,2
+sirolimus,anemia,2
+alcohol,HIV disease,2
+Acetaminophen,ALF,2
+morphine,neuropathic pain,2
+CNSB002,neuropathic pain,2
+sodium,neuropathic pain,2
+morphine,neuropathy,2
+MitoQ,cardiac dysfunction,2
+streptozotocin,diabetic nephropathy,2
+alendronate,pain,2
+daptomycin,bacteremia,2
+NO,epilepsy,2
+lindane,convulsion,2
+streptozotocin,cognitive deficits,2
+STZ,cognitive deficits,2
+Famotidine,delirium,1
+Famotidine,ulcers,1
+sodium,hypotension,1
+Indomethacin,hypotension,1
+tacrolimus,scleroderma renal crisis,1
+prednisolone,scleroderma renal crisis,1
+corticosteroid,SRC,1
+cyclosporine,thrombotic microangiopathy,1
+cyclosporine,SSc,1
+corticosteroids,SRC,1
+tacrolimus,SRC,1
+tacrolimus,SSc,1
+methamphetamine,psychiatric disorders,1
+methamphetamine,antisocial personality,1
+methamphetamine,affective disorder,1
+methamphetamine,psychotic symptoms,1
+levodopa,LIDs,1
+CYP,pain,1
+Cyclophosphamide,pain,1
+clopidogrel,hepatotoxicity,1
+clopidogrel,hepatic injury,1
+dex,multiple myeloma,1
+bort,multiple myeloma,1
+Bortezomib,MM,1
+Bort,MM,1
+Bisphenol A,anxiety,1
+isoproterenol,cardiotoxicity,1
+lenalidomide,Myeloma,1
+lenalidomide,multiple myeloma,1
+dexamethasone,Myeloma,1
+Lenalidomide,RRMM,1
+Lenalidomide,multiple myeloma,1
+dexamethasone,RRMM,1
+RD,multiple myeloma,1
+IFO,genotoxicity,1
+Mesna,genotoxicity,1
+levodopa,Dyskinesia,1
+everolimus,AL,1
+rapamycin,glomerulopathy,1
+rapamycin,atrophy,1
+rapamycin,fibrosis,1
+rapamycin,Proteinuria,1
+tacrolimus,amyloidosis,1
+tacrolimus,proteinuria,1
+tenofovir,kidney injury,1
+tenofovir disoproxil fumarate,kidney injury,1
+TDF,kidney disease,1
+TDF,glomerular dysfunction,1
+TDF,kidney tubular dysfunction,1
+thiopentone,delirium,1
+propofol,delirium,1
+methamphetamine,depressive,1
+methamphetamine,neurotoxic,1
+METH,depressive symptoms,1
+Methamphetamine,depressive symptoms,1
+serotonin,depressive,1
+tyrosine,depressive,1
+DOPAC,depressive,1
+dopamine,depressive,1
+HVA,depressive,1
+Linezolid,optic neuropathy,1
+ethambutol,loss of vision,1
+ethambutol,XDR-TB,1
+ethambutol,extensively drug-resistant tuberculosis,1
+linezolid,XDR-TB,1
+linezolid,extensively drug-resistant tuberculosis,1
+ethambutol,toxic optic neuropathy,1
+Ethambutol,toxic optic neuropathy,1
+ethambutol,Deterioration of vision,1
+epinephrine,cardiac toxicity,1
+epinephrine,toxicity,1
+epinephrine,cardiovascular collapse,1
+levobupivacaine,toxicity,1
+levobupivacaine,cardiovascular collapse,1
+Zolmitriptan,apical ballooning syndrome,1
+Zolmitriptan,Takotsubo syndrome,1
+zolmitriptan,migraines,1
+zolmitriptan,migraine headache,1
+zolmitriptan,TS,1
+zolmitriptan,coronary artery vasospasm,1
+"3,4-methylenedioxymethamphetamine",impulsiveness,1
+"3,4-methylenedioxymethamphetamine",Depression,1
+Ecstasy,impulsiveness,1
+Ecstasy,Depression,1
+MDMA,impulsiveness,1
+AN,Impulsiveness,1
+AN,Depression,1
+CAN,Impulsiveness,1
+CAN,Depression,1
+nicotine,Impulsiveness,1
+nicotine,Depression,1
+cannabis,Impulsiveness,1
+cannabis,Depression,1
+ecstasy,Impulsiveness,1
+MDMA,Impulsiveness,1
+alcohol,Impulsiveness,1
+ecstasy,impaired memory,1
+ecstasy,sleep disturbance,1
+Levodopa,dyskinesia,1
+Levodopa,visual hallucinations,1
+GEM,Hodgkin lymphoma,1
+Gemcitabine,toxicity,1
+Gemcitabine,HL,1
+cisplatin,toxicity,1
+gemcitabine,HL,1
+methylprednisolone,HL,1
+GEM,toxicities,1
+GEM,neutropenia,1
+GEM,thrombocytopenia,1
+Ecstasy,psychobiological dysfunction,1
+MDMA,psychobiological dysfunction,1
+ecstasy,anxiety,1
+Ifosfamide,encephalopathy,1
+Ifosfamide,lymphoma,1
+Ifosfamide,cancers,1
+Ifosfamide,sarcomas,1
+Ifosfamide,gynecologic and testicular cancers,1
+ifosfamide,Encephalopathy,1
+ifosfamide,Cancer,1
+irinotecan,Hypertension,1
+Contrast,Hypertension,1
+bevacizumab,nephropathy,1
+desvenlafaxine,Syndrome of inappropriate antidiuretic hormone,1
+desvenlafaxine,syndrome of inappropriate anti-diuretic hormone,1
+desvenlafaxine,SIADH,1
+desvenlafaxine,anxiety,1
+desvenlafaxine,nausea,1
+desvenlafaxine,confusion,1
+sodium,SIADH,1
+desvenlafaxine,hyponatremia,1
+DOX,necrosis,1
+DOX,cardiac disarrangement,1
+Tacrolimus,seizure,1
+TAC,end-stage liver disease,1
+bilirubin,end-stage liver disease,1
+bilirubin,seizures,1
+apigenin,amnesia,1
+morphine,amnesia,1
+CCK-8,amnesia,1
+morphine,memory impairment,1
+CCK-8,memory impairment,1
+Streptozotocin,neurotoxicity,1
+Streptozotocin,memory impairment,1
+Streptozotocin,toxicity,1
+Streptozotocin,memory impaired,1
+STZ,toxicity,1
+STZ,memory impaired,1
+STZ,Memory deficit,1
+STZ,neuroinflammation,1
+nitrite,excitotoxicity,1
+Ca,excitotoxicity,1
+STZ,excitotoxicity,1
+Memantine,neurotoxicity,1
+Ibuprofen,neurotoxicity,1
+diltiazem,nephropathy,1
+sodium chloride,nephropathy,1
+contrast,ARF,1
+contrast,acute renal failure,1
+MTX,acute lymphoblastic leukemia,1
+Tranexamic acid,renal failure,1
+Tranexamic acid,seizure,1
+Tranexamic acid,bleeding,1
+TNA,bleeding,1
+TNA,tonic clonic convulsions,1
+TNA,overdose,1
+TNA,convulsions,1
+bupivacaine,cardiovascular depression,1
+propofol,cardiovascular depression,1
+bupivacaine,dysrhythmia,1
+bupivacaine,asystole,1
+bupivacaine,cardiotoxic,1
+propofol,cardiotoxic,1
+Fluvastatin,Drug-Induced Acute Liver Injury,1
+statins,drug-induced liver injury,1
+fluvastatin,liver damage,1
+Fluconazole,thrombocytopenia,1
+Fluconazole,agranulocytosis,1
+fluconazole,blood dyscrasias,1
+fluconazole,bone marrow suppression,1
+epirubicine,cardiotoxicity,1
+epirubicin,myocardial strain,1
+epirubicin,cardiac dysfunction,1
+epirubicin,non-Hodgkin lymphoma,1
+anthracycline,cardiac dysfunction,1
+Fentanyl,myoclonus,1
+etomidate,Myoclonic movements,1
+etomidate,pain,1
+phosphorus,Cholestatic,1
+phosphorus,acute hepatitis,1
+phosphorus,acute liver failure,1
+phosphorus,Poisoning,1
+phosphorus,cholestasis,1
+dexmedetomidine,Vasovagal syncope,1
+dexmedetomidine,syncope,1
+quetiapine,schizo-affective disorder,1
+lithium,schizo-affective disorder,1
+zuclopenthixol,schizo-affective disorder,1
+quetiapine,aggressiveness,1
+quetiapine,personality disorder,1
+dexamethasone,hypertension,1
+Dexamethasone,hypertension,1
+H2O2,weight loss,1
+tranexamic acid,convulsive,1
+tranexamic acid,congestive heart failure,1
+tranexamic acid,hypothermic,1
+ecstasy,Dysfunctional overnight memory,1
+ecstasy,sleep-related impairments,1
+Ecstasy,impaired overnight memory,1
+ecstasy,memory impairments,1
+valproate,aggression,1
+valproate,confusion,1
+valproate,auditory hallucinations,1
+valproate,delusions,1
+valproate,hemiparesis,1
+valproate,hemiplegic migraine,1
+N-methyl-D-aspartate,encephalopathy,1
+NMDA,encephalitis,1
+valproate,encephalitis,1
+pethidine,Cerebellar and oculomotor dysfunction,1
+Pethidine,pain,1
+norpethidine,pain,1
+norpethidine,impaired renal and liver function,1
+norpethidine,irritability,1
+norpethidine,seizure,1
+norpethidine,neurotoxic,1
+pethidine,pain,1
+pethidine,impaired renal and liver function,1
+pethidine,irritability,1
+pethidine,seizure,1
+pethidine,neurotoxic,1
+ketoconazole,Baboon syndrome,1
+ketoconazole,maculopapular eruption,1
+Pilsicainide,Torsades de Pointes,1
+Pilsicainide,Sudden Cardiac Death,1
+pilsicainide,sudden cardiac death,1
+sodium,atrial fibrillation,1
+sodium,sudden cardiac death,1
+pilsicainide,torsades de pointes,1
+All-trans retinoic acid,myositis,1
+All-trans retinoic acid,APL,1
+ATRA,myositis,1
+CCNU,toxicity,1
+CCNU,lymphoma,1
+lomustine,toxicity,1
+CTX,toxicity,1
+CTX,lymphoma,1
+CTX,Neutropenia,1
+CTX,neutropenia,1
+CCNU,Neutropenia,1
+CCNU,neutropenia,1
+CTX,tumor,1
+CCNU,tumor,1
+Nelarabine,neurotoxicity,1
+valproate,hyperammonemic,1
+valproate,hyperammonemia,1
+valproate,epilepsy,1
+valproate,impaired consciousness,1
+dexamethasone,Necrotising fasciitis,1
+bortezomib,Necrotising fasciitis,1
+dexamethasone,malignancies,1
+Bortezomib,bacterial infections,1
+Bortezomib,malignancies,1
+dexamethasone,neutropenia,1
+dexamethasone,necrotising fasciitis,1
+bortezomib,neutropenia,1
+bortezomib,necrotising fasciitis,1
+bortezomib,bacterial infections,1
+DOX,cardiomyopathy,1
+gadolinium,diastolic dysfunction,1
+glutamate,pain,1
+glutamate,pain disorders,1
+capsaicin,pain,1
+capsaicin,pain disorders,1
+Capsaicin,secondary hyperalgesia,1
+glutamate,allodynic,1
+glutamate,hyperalgesic,1
+capsaicin,allodynic,1
+capsaicin,hyperalgesic,1
+dexamethasone,glaucoma,1
+dexamethasone,retinal ganglion,1
+dexamethasone,axonal degeneration,1
+Dexamethasone,ocular hypertension,1
+sodium 4-phenylbutyrate,ocular hypertension,1
+ginsenosides,hyperalgesia,1
+"Re, Rg1, and Rb1 ginsenosides",OIH,1
+morphine,OIH,1
+Re,OIH,1
+Rg1 and Rb1 ginsenosides,OIH,1
+ginsenoside Re,OIH,1
+Rb1,OIH,1
+dexmedetomidine,hypotension,1
+propofol,bradycardia,1
+Hydroxytyrosol,cardiotoxicity,1
+Hydroxytyrosol,mitochondrial dysfunction,1
+Hydroxytyrosol,breast cancer,1
+doxorubicin,cardiovascular disease,1
+Doxorubicin,mitochondrial dysfunction,1
+hydroxytyrosol,cardiac toxicity,1
+hydroxytyrosol,breast cancer,1
+doxorubicin,cardiac toxicity,1
+hydroxytyrosol,breast tumors,1
+doxorubicin,cardiac disturbances,1
+Hydroxytyrosol,cardiac disturbances,1
+doxorubicin,heart damage,1
+hydroxytyrosol,heart damage,1
+Amiodarone,myxoedema coma,1
+amiodarone,respiratory failure,1
+amiodarone,hypothermia,1
+amiodarone,bradycardia,1
+iodine,myxoedema coma,1
+amiodarone,thyroid disease,1
+heparin,upper-extremity deep venous thrombosis,1
+heparin,pulmonary embolism,1
+heparin,amyloidosis,1
+heparin,DVT,1
+argatroban,epistaxis,1
+argatroban,amyloidosis,1
+argatroban,SVC syndrome,1
+amphetamine,schizophrenia,1
+apomorphine,hyper,1
+Amphetamine,hyper,1
+DHEA,catalepsy,1
+Citalopram,TdP,1
+Citalopram,Torsade de Pointes,1
+Terfenadine,TdP,1
+Terfenadine,Torsade de Pointes,1
+S-53482,teratogenicity,1
+S-53482,embryolethality,1
+S-53482,growth retardation,1
+S-53482,ventricular septal defects,1
+S-23121,teratogenicity,1
+S-23121,embryolethality,1
+S-23121,growth retardation,1
+S-23121,ventricular septal defects,1
+S-23121,toxicity,1
+S-23121,ventricular septal defect,1
+S-23121,embryonic death,1
+S-53482,teratogenic,1
+S-23121,teratogenic,1
+Cisplatin,Renal Toxicity,1
+Cisplatin,Cancer,1
+Mannitol,Renal Toxicity,1
+Mannitol,Cancer,1
+mannitol,toxicity,1
+mannitol,cancer,1
+cisplatin,AKI,1
+cisplatin,hypertension,1
+mannitol,hypertension,1
+pentylenetetrazole,learning and memory impairments,1
+Metformin,learning and memory impairments,1
+Metformin,seizures,1
+pentylenetetrazole,cognitive impairment,1
+metformin,epilepsy,1
+anthracycline,cardiotoxicity,1
+DOX,cancer,1
+Doxorubicin,cancer,1
+DOX,heart failure,1
+Metronidazole,encephalopathy,1
+metronidazole,encephalopathy,1
+metronidazole,toxicity,1
+Aconitine,arrhythmia,1
+aconitine,cardiotoxicity,1
+Na,cardiotoxicity,1
+aconitine,cytotoxicity,1
+lactate,cytotoxicity,1
+lactate,myocardial injury,1
+AMP,myocardial infarction,1
+AMP,cardiac dysfunction,1
+metformin,cardiac dysfunction,1
+Isoproterenol,acute myocardial infarction,1
+isoproterenol,tumor,1
+isoproterenol,necrosis,1
+tetrabenazine,Neuroleptic malignant syndrome,1
+tetrabenazine,Huntington's disease,1
+tetrabenazine,breast cancer,1
+tiapride,Neuroleptic malignant syndrome,1
+tiapride,Huntington's disease,1
+tiapride,breast cancer,1
+terbinafine,bradycardia,1
+metoprolol,bradycardia,1
+terbinafine,onychomycosis,1
+terbinafine,coronary artery disease,1
+metoprolol,onychomycosis,1
+metoprolol,coronary artery disease,1
+terbinafine,confusion,1
+terbinafine,adverse drug reaction,1
+metoprolol,adverse drug reaction,1
+ethambutol,peripheral neuropathy,1
+Ethambutol,polyneuropathy,1
+ethambutol,paresthesias,1
+ethambutol,visual loss,1
+ethambutol,toxicity,1
+letrozole,impaired the memory,1
+letrozole,memory impairment,1
+flutamide,impaired the memory,1
+flutamide,memory impairment,1
+testosterone,impaired the memory,1
+tamoxifen,impaired the memory,1
+tamoxifen,memory impairment,1
+STZ,impaired the memory,1
+garcinielliptone FC,seizures,1
+GFC,seizures,1
+r-aminobutyric acid,seizure,1
+r-aminobutyric acid,seizures,1
+glutathione,seizure,1
+glutathione,seizures,1
+aspartate,seizure,1
+aspartate,seizures,1
+glutamine,seizure,1
+glutamine,seizures,1
+GABA,seizure,1
+amino acid,seizure,1
+amino acid,seizures,1
+GFC,status epilepticus,1
+telaprevir,hepatitis C virus infected,1
+telaprevir,Rhabdomyolysis,1
+simvastatin,hepatitis C virus infected,1
+telaprevir,hepatitis C virus infection,1
+pegylated interferon,hepatitis C virus infection,1
+ribavirin,hepatitis C virus infection,1
+simvastatin,toxicity,1
+Simvastatin,muscle toxicity,1
+statin,muscle toxicity,1
+bortezomib,multiple myeloma,1
+thalidomide,multiple myeloma,1
+bortezomib,MM,1
+thalidomide,MM,1
+cyclosporine,nephropathy,1
+SRL,nephropathy,1
+CsA,nephropathy,1
+cyclosporin A,nephropathy,1
+eosin,Renal lesions,1
+hematoxylin,Renal lesions,1
+SRL,renal impairment,1
+SRL,proteinuria,1
+CsA,kidney lesions,1
+SRL,renal damage,1
+cisplatin,acute renal injury,1
+Cisplatin,acute tubular necrosis,1
+Cisplatin,acute kidney injury,1
+urea,acute tubular necrosis,1
+urea,acute kidney injury,1
+creatinine,acute tubular necrosis,1
+creatinine,acute kidney injury,1
+cisplatin,necrotic,1
+fluocinolone acetonide,birdshot retinochoroidopathy,1
+fluocinolone acetonide,cataract,1
+Succinylcholine,muscle fasciculation,1
+Succinylcholine,myalgia,1
+rocuronium,muscle fasciculation,1
+Lithium,NDI,1
+Lithium,nephrogenic diabetes insipidus,1
+lithium,NDI,1
+amlodipine,Dysguesia,1
+Amlodipine,Dysguesia,1
+Amlodipine,dysguesia,1
+amlodipine,hypertension,1
+amlodipine,loss of taste sensation,1
+clarithromycin,Rhabdomyolysis,1
+clarithromycin,rhabdomyolysis,1
+statin,rhabdomyolysis,1
+suxamethonium,Butyrylcholinesterase deficiency,1
+mivacurium,Butyrylcholinesterase deficiency,1
+mivacurium,apnea,1
+artesunate,anemia,1
+artesunate,hemolytic anemia,1
+betaine,myocardial injury,1
+isoproterenol,myocardial ischemic injury,1
+betaine,ventricular remodeling,1
+betaine,myocardial damage,1
+Quetiapine,bipolar,1
+Quetiapine,hepatocellular carcinoma,1
+clozapine,neutropenia,1
+clozapine,blood dyscrasias,1
+Quetiapine,blood dyscrasias,1
+quetiapine,hepatocellular carcinoma,1
+quetiapine,leucopenia,1
+quetiapine,Hepatic dysfunction,1
+quetiapine,fever,1
+steroid,paresthesia,1
+oxygen,nephrotoxicity,1
+maleate,nephrotoxicity,1
+Curcumin,nephrotoxicity,1
+curcumin,renal injury,1
+maleate,renal injury,1
+maleate,proteinuria,1
+glucose,renal injury,1
+glucose,necrosis,1
+glucose,kidney injury,1
+Maleate,renal injury,1
+Maleate,necrosis,1
+Maleate,kidney injury,1
+sodium,renal injury,1
+sodium,necrosis,1
+sodium,kidney injury,1
+curcumin,nephropathy,1
+maleate,nephropathy,1
+organophosphate,tumours,1
+diazinon,tumours,1
+organophosphate,lung cancer,1
+organophosphate,cancer,1
+Diazinon,lung cancer,1
+Diazinon,cancer,1
+diazinon,tumour,1
+diazinon,prostate cancer,1
+particulate matter,Parkinson's disease,1
+caffeine,glomerulosclerosis,1
+caffeine,IUGR,1
+caffeine,intrauterine growth retardation,1
+creatinine,glomerulosclerosis,1
+creatinine,interstitial fibrosis,1
+"1,3-Butadiene",CML,1
+"1,3-butadiene",chronic myeloid leukemia,1
+"1,3-butadiene",CML,1
+metolachlor,Cancer,1
+metolachlor,cancers,1
+metolachlor,lung cancer,1
+metolachlor,liver neoplasms,1
+metolachlor,lymphoma,1
+strophantine G,arrhythmia,1
+vitamin E,myopathy,1
+vitamin E,Myopathy,1
+vitamin E,myodystrophy,1
+vitamin E,myopathic,1
+CIBA,myopathic,1
+steroids,myopathic,1
+Dianabol,myopathic,1
+vitamin E,myopathic disease,1
+steroids,myopathic disease,1
+warfarin,nasal hypoplasia,1
+warfarin,stippled epiphyses,1
+warfarin,Nasal hypoplasia,1
+warfarin,embryopathy,1
+warfarin,chondrodysplasia punctata,1
+Isradipine,hypertension,1
+isradipine,dizziness,1
+isradipine,headache,1
+isradipine,flushing,1
+isradipine,palpitation,1
+salbutamol,asthmatics,1
+salbutamol,asthma,1
+salbutamol,asthmatic,1
+K,tremor,1
+Glu,tremor,1
+caffeine,panic disorders,1
+caffeine,agoraphobia,1
+cortisol,agoraphobia,1
+cortisol,panic disorder,1
+cortisol,panic attacks,1
+MHPG,agoraphobia,1
+MHPG,panic disorder,1
+MHPG,panic attacks,1
+3-methoxy-4-hydroxyphenethyleneglycol,agoraphobia,1
+3-methoxy-4-hydroxyphenethyleneglycol,panic disorder,1
+3-methoxy-4-hydroxyphenethyleneglycol,panic attacks,1
+Caffeine,anxiety,1
+Caffeine,nausea,1
+Caffeine,palpitations,1
+Caffeine,tremors,1
+Caffeine,restlessness,1
+adenosine,abnormalities in neuronal systems,1
+adenosine,panic disorder,1
+caffeine,abnormalities in neuronal systems,1
+caffeine,anxiety disorders,1
+cobalt,cardiomyopathy,1
+doxorubicin,heart failure,1
+caffeine,clonic seizure,1
+alkylxanthines,toxicity,1
+cyclophosphamide,hematuria,1
+cyclophosphamide,cerebral vasculitis,1
+cyclophosphamide,hemorrhagic cystitis,1
+cyclophosphamide,carcinoma of the urinary tract,1
+cyclophosphamide,carcinoma,1
+cyclophosphamide,urinary tract cancer,1
+cyclophosphamide,tumor,1
+cyclophosphamide,obstructive uropathy,1
+carbetocin,retained placenta,1
+carbetocin,abdominal pain,1
+carbetocin,hyper- or hypotension,1
+carbetocin,vomiting,1
+carbetocin,blood loss,1
+cocaine,Chest pain,1
+Dobutamine,ischemia,1
+atropine,tachydysrhythmias,1
+atropine,sinus tachycardia,1
+Amiodarone,torsade de pointes,1
+amiodarone,torsade de pointes,1
+digoxin,TdP,1
+digoxin,hypokalemia,1
+amiodarone,proarrhythmia,1
+amiodarone,hypokalemia,1
+amiodarone,hypomagnesemia,1
+melphalan,primary systemic amyloidosis,1
+melphalan,acute renal insufficiency,1
+melphalan,tubular injury,1
+cocaine,Impaired fear recognition,1
+ecstasy,deficit in fear recognition,1
+cocaine,deficit in fear recognition,1
+crack cocaine,Corneal ulcers,1
+Levetiracetam,idiopathic epilepsy,1
+levetiracetam,Seizure,1
+levetiracetam,lethargy,1
+levetiracetam,inappetence,1
+cocaine,haemorrhagic infarction of the globus pallidus,1
+alcohol,haemorrhagic infarction of the globus pallidus,1
+Cocaine,ischemic and haemorrhagic stroke,1
+cocaine,ischemia of the globus pallidus,1
+alcohol,ischemia of the globus pallidus,1
+heroin,globus pallidus infarctions,1
+heroin,basal ganglia infarcts,1
+cocaine,basal ganglia infarcts,1
+cocaine,cardiac arrhythmia,1
+cocaine,cerebral hypoperfusion,1
+cocaine,respiratory dysfunction,1
+ethanol,cardiac arrhythmia,1
+ethanol,cerebral hypoperfusion,1
+ethanol,respiratory dysfunction,1
+methotrexate,Acute renal failure,1
+methotrexate,hepatic and renal toxicity,1
+methotrexate,Burkitt lymphoma,1
+MTX,hepatic and renal toxicity,1
+MTX,Burkitt lymphoma,1
+MTX,biliary atresia,1
+warfarin,IS,1
+warfarin,TIA,1
+verapamil,macroprolactinemia,1
+risperidone,pseudoprolactinoma,1
+codine,cataleptic,1
+xylometazoline,cataleptic,1
+fentanyl,cataleptic,1
+codeine,cataleptic,1
+pentazocine,cataleptic,1
+morphine,cataleptic,1
+naphazoline,cataleptic,1
+clonidine,cataleptic,1
+NA,catalepsy,1
+fentanyl,catalepsy,1
+morphine,catalepsy,1
+naphazoline,catalepsy,1
+Codeine,catalepsy,1
+xylometazoline,catalepsy,1
+clonidine,catalepsy,1
+propranolol,hypoglycaemia,1
+progestagen,hyperplasia,1
+norethisterone,hyperplasia,1
+oestrogen,malignancy,1
+oestrogen,endometrial carcinoma,1
+progestagen,carcinoma,1
+progestagen,endometrial hyperplasia,1
+oestrogen,carcinoma,1
+oestrogen,endometrial hyperplasia,1
+diphenylhydantoin,toxic dermatitis,1
+diphenylhydantoin,Skin rash,1
+carbenicillin,infections,1
+carbenicillin,cancer,1
+tobramycin,infections,1
+tobramycin,cancer,1
+carbenicillin,neutropenia,1
+tobramycin,neutropenia,1
+creatinine,azotemia,1
+tobramycin,Azotemia,1
+aminocaproic acid,subarachnoid hemorrhage,1
+aminocaproic acid,acute renal artery thrombosis,1
+Epsilon aminocaproic acid,subarachnoid hemorrhage,1
+Epsilon aminocaproic acid,thrombotic,1
+Epsilon aminocaproic acid,SAH,1
+EACA,subarachnoid hemorrhage,1
+EACA,thrombotic,1
+EACA,thromboembolic phenomena,1
+EACA,intracranial vascular thrombosis,1
+EACA,thrombosis of a normal renal artery,1
+EACA,disseminated intravascular coagulation,1
+EACA,consumption coagulopathies,1
+EACA,infarction,1
+propranolol,bradycardia,1
+propranolol,hyperbilirubinemia,1
+propranolol,polycythemia,1
+propranolol,hypoglycemia,1
+propranolol,neonatal apnea,1
+norepinephrine,hypersensitivity,1
+catecholamines,hypersensitivity,1
+etomidate,myoclonia,1
+fenoterol-hydrobromide,tremor,1
+ritodrin-HCl,tremor,1
+corticosteroid,retinal artery and choriocapillaris occlusion,1
+epinephrine,blindness,1
+epinephrine,retinal artery and choriocapillaris occlusions,1
+methylprednisolone acetate,blindness,1
+methylprednisolone acetate,retinal artery and choriocapillaris occlusions,1
+penicillin,blindness,1
+penicillin,retinal artery and choriocapillaris occlusions,1
+lidocaine,blindness,1
+lidocaine,retinal artery and choriocapillaris occlusions,1
+Cephalothin,hemolytic anemia,1
+cephalothin,hemolytic anemia,1
+cephalothin,renal disease,1
+L-dopa,Hypokalemia,1
+L-dopa,hypokalemia,1
+aldosterone,hypokalemia,1
+sodium,hypokalemia,1
+potassium,hypokalemia,1
+Phenytoin,encephalopathy,1
+DPH,encephalopathy,1
+phenytoin,encephalopathy,1
+phenytoin,seizures,1
+DPH,rash,1
+isoproterenol,infarction,1
+aminoglycoside,Dehydrated,1
+"2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone",renal failure,1
+kanamycin,renal failure,1
+aminoglycoside,renal damage,1
+D-glucarate,renal damages,1
+monosaccharides,renal lesions,1
+D-glucarates,nephrotoxicity,1
+methotrexate,Paraplegia,1
+methotrexate,paraplegia,1
+methotrexate,neurotoxic,1
+methothexate,neurotoxic,1
+methothexate,central nervous system leukemia,1
+methotrexate,toxicity,1
+methotrexate,folate deficiency,1
+caproate,Hyperglycemic,1
+amino,Hyperglycemic,1
+caproate,glucosuria,1
+caproate,hyperglycemia,1
+glucose,glucosuria,1
+glucose,hyperglycemia,1
+amino,glucosuria,1
+amino,hyperglycemia,1
+tetracycline,Fatty liver,1
+oleic acid,depression,1
+triglyceride,fatty liver,1
+vincristine,myeloencephalopathy,1
+Vincristine,encephalopathy,1
+Vincristine,sensory and motor dysfunction,1
+Vincristine,leukaemia,1
+progesterone,arrhythmic,1
+bupivacaine,arrhythmic,1
+HCl,arrhythmic,1
+bupivacaine,arrhythmia,1
+desferrioxamine,Acute renal failure,1
+DFX,thalassemia,1
+desferrioxamine,thalassemia,1
+desferrioxamine,acute renal failure,1
+Neuroleptic,hyperprolactinemia,1
+neuroleptic medications,hyperprolactinemia,1
+neuroleptic medications,oligomenorrhea,1
+neuroleptic medications,amenorrhea,1
+bromocriptine,oligomenorrhea,1
+bromocriptine,psychiatric symptoms,1
+neuroleptic,hyperprolactinemia,1
+neuroleptic,amenorrhea,1
+neuroleptic,galactorrhea,1
+bromocriptine,galactorrhea,1
+Ethacrynic acid,convulsions,1
+5-hydroxytryptamine,convulsive,1
+ethacrynic acid,convulsive,1
+gamma-aminobutyric acid,convulsive,1
+acetylcholine,convulsive,1
+5-HT,convulsive,1
+ethacrynic acid,convulsions,1
+[35S]TBPS,convulsions,1
+beta-carboline,convulsions,1
+isoniazid,convulsions,1
+bromocriptine,myocardial infarction,1
+Bromocriptine,myocardial infarction,1
+carbamazepine,Asterixis,1
+carbamazepine,asterixis,1
+clozapine,asterixis,1
+clozapine,neurotoxicity,1
+lithium,asterixis,1
+lithium,neurotoxicity,1
+CBZ,neurotoxicity,1
+Phenylalanine,hypotensive,1
+amino acid,hypotensive,1
+vincristine,Syndrome of inappropriate secretion of antidiuretic hormone,1
+vincristine,multiple myeloma,1
+doxorubicin,multiple myeloma,1
+vincristine,syndrome of inappropriate secretion of antidiuretic hormone,1
+digoxin,atrial fibrillation,1
+digoxin,arrhythmias,1
+Angiotensin,myocardial infarction,1
+Angiotensin,MI,1
+digoxin,myocardial infarction,1
+digoxin,MI,1
+rifampin,Renal failure,1
+rifampin,leprosy,1
+Zidovudine,hepatitis,1
+zidovudine,AIDS,1
+zidovudine,hepatitis,1
+coumadin,Thoracic hematomyelia,1
+fluoxetine,Mania,1
+Fluoxetine,depression,1
+serotonin,depression,1
+fluoxetine,depressed,1
+fluoxetine,psychotic,1
+fluoxetine,depression,1
+fluoxetine,attention-deficit hyperactivity disorder,1
+fluoxetine,hypomania,1
+fluoxetine,bipolar disorder,1
+fluoxetine,affective disorder,1
+lovastatin,hyperlipoproteinemias,1
+Gemfibrozil,hyperlipoproteinemias,1
+gemfibrozil,atherosclerotic vascular disease,1
+gemfibrozil,hyperlipidemia,1
+cholesterol,atherosclerotic vascular disease,1
+cholesterol,hyperlipidemia,1
+lovastatin,atherosclerotic vascular disease,1
+lovastatin,hyperlipidemia,1
+creatine,Myositis,1
+creatine,rhabdomyolysis,1
+creatine,myoglobinuria,1
+corticosteroid,Hepatocellular carcinoma,1
+androgen,Hepatocellular carcinoma,1
+corticosteroids,Fanconi's anemia,1
+androgens,Fanconi's anemia,1
+corticosteroid,hepatic neoplasms,1
+corticosteroid,peliosis,1
+androgen,hepatic neoplasms,1
+androgen,peliosis,1
+trimethaphan,hypotension,1
+trimethaphan,tachycardia,1
+trimethaphan,bradycardia,1
+pilocarpine,Damage of substantia nigra pars reticulata,1
+calcium,neuronal damage,1
+N-(2-hydroxypropyl)methacrylamide,toxicity,1
+HPMA,toxicity,1
+capsaicin,mastitis,1
+Serotonin,paranoia,1
+amitriptyline,paranoid,1
+fluoxetine,paranoid,1
+serotonin,depressive disorders,1
+serotonin,psychosis,1
+dopamine,paranoia,1
+serotonin,paranoia,1
+diethylcarbamazine,loiasis,1
+diethylcarbamazine,filariasis,1
+DEC,filariasis,1
+DEC,encephalitis,1
+misoprostol,Delirium,1
+Misoprostol,headache,1
+glutathione,ischemia,1
+glutathione,reperfusion injury,1
+cimetidine,hypotension,1
+rifampicin,Acute renal failure,1
+Rifampicin,fever,1
+Rifampicin,nausea,1
+Rifampicin,vomiting,1
+thiotepa,polyneuropathy,1
+thiotepa,neurologic toxicity,1
+TSPA,neurologic toxicity,1
+cytosine arabinoside,Neurologic toxicities,1
+methotrexate,Neurologic toxicities,1
+TSPA,Neurologic toxicities,1
+ara-C,neurotoxicity,1
+TSPA,neurotoxicity,1
+beta adrenergic and muscarinic receptors blockade,hypotension,1
+beta adrenergic and muscarinic receptors blockade,tachycardia,1
+cromakalim,hypotension,1
+cromakalim,tachycardia,1
+pinacidil,hypotension,1
+pinacidil,tachycardia,1
+Mefenamic acid,renal failure,1
+Mefenamic acid,neutropenia,1
+Mefenamic acid,hypothyroidism,1
+mefenamic acid,renal failure,1
+mefenamic acid,neutropenia,1
+mefenamic acid,hypothyroidism,1
+mefenamic acid,hypothyroid,1
+calcium carbonate,hypercalcemia,1
+phosphate,hypercalcemic,1
+calcium carbonate,hypercalcemic,1
+calcium,hypercalcemia,1
+calcium,renal disease,1
+Methyldopa,hemolytic anemia,1
+Methyldopa,syncope,1
+Methyldopa,autoimmune hemolytic anemia,1
+methyldopa,emergency department,1
+methyldopa,hemolytic anemia,1
+methyldopa,syncope,1
+methyldopa,trauma,1
+chlorhexidine diphosphanilate,burns,1
+Chlorhexidine phosphanilate,burn,1
+silver sulphadiazine,burn,1
+AgSD,burn,1
+AgSD,pain,1
+Busulfan,neurotoxicity,1
+Busulfan,neurotoxic,1
+busulfan,brain tumors,1
+busulfan,tumors,1
+busulfan,seizures,1
+clonazepam,neurological symptoms,1
+busulfan,central nervous system disease,1
+clonazepam,central nervous system disease,1
+Busulfan,central nervous system disease,1
+clonazepam,neurotoxicity,1
+d-tubocurarine,hypotension,1
+Histamine,hypotension,1
+gamma-hexachlorocyclohexane,neurotoxic,1
+Lindane,neurotoxic,1
+propylthiouracil,lupus-like syndrome,1
+propylthiouracil,hepatocellular necrosis,1
+propylthiouracil,hepatitis,1
+methimazole,lupus-like syndrome,1
+methimazole,hepatocellular necrosis,1
+methimazole,hepatitis,1
+MK-801,status epilepticus,1
+N-methyl-D-aspartate,seizure,1
+NMDA,seizure,1
+MK-801,seizures,1
+lithium,brain damage,1
+Nifedipine,bradycardia,1
+Nifedipine,autonomic neuropathy,1
+nifedipine,atrial flutter,1
+nifedipine,tachycardia,1
+Estrogen,renal carcinomas,1
+estradiol,tumor,1
+biperiden lactate,bradycardia,1
+biperiden lactate,dysphagia,1
+biperiden lactate,postzosteric,1
+biperiden lactate,trigeminal neuralgia,1
+biperiden lactate,dysarthria,1
+muscarine,Bradycardia,1
+atropine,Bradycardia,1
+enflurane,hypotension,1
+enflurane,hypotensive,1
+labetalol,hypotensive,1
+isoflurane,hypotensive,1
+H,hypotension,1
+creatinine,hypotension,1
+labetalol,hypertension,1
+labetalol,tachycardia,1
+fluorescein,Convulsion,1
+fluorescein,Tonic-clonic seizures,1
+phenytoin sodium,seizures,1
+ACC-9653,seizures,1
+phenytoin sodium,ventricular tachycardia,1
+ACC-9653,ventricular tachycardia,1
+phenytoin sodium,arrhythmia,1
+ACC-9653,arrhythmia,1
+phenytoin sodium,arrhythmias,1
+strophanthidin,arrhythmias,1
+phenytoin sodium,toxicity,1
+ACC-9653,toxicity,1
+Phenytoin,hepatic injury,1
+phenytoin,hepatic failure,1
+histamine,encephalopathy,1
+histamine,pertussis,1
+p-aminohippuric acid,necrosis,1
+p-aminohippuric acid,ischaemic,1
+p-aminohippuric acid,ARF,1
+p-aminohippuric acid,nephrotoxic,1
+p-aminohippuric acid,acute renal failure,1
+enprofylline,necrosis,1
+enprofylline,ischaemic,1
+enprofylline,ARF,1
+enprofylline,nephrotoxic,1
+enprofylline,acute renal failure,1
+8-phenyltheophylline,necrosis,1
+8-phenyltheophylline,ischaemic,1
+8-phenyltheophylline,ARF,1
+8-phenyltheophylline,nephrotoxic,1
+8-phenyltheophylline,acute renal failure,1
+theophylline,necrosis,1
+theophylline,ischaemic,1
+theophylline,ARF,1
+theophylline,nephrotoxic,1
+theophylline,acute renal failure,1
+alkylxanthines,necrosis,1
+alkylxanthines,ischaemic,1
+alkylxanthines,nephrotoxic,1
+adenosine,necrosis,1
+adenosine,ischaemic,1
+adenosine,nephrotoxic,1
+adenosine,acute renal failure,1
+creatinine,necrosis,1
+creatinine,ischaemic,1
+creatinine,ARF,1
+Adenosine,necrosis,1
+Adenosine,ischaemic,1
+Adenosine,ARF,1
+Adenosine,nephrotoxic,1
+Adenosine,acute renal failure,1
+gentamicin,necrosis,1
+gentamicin,ischaemic,1
+gentamicin,nephrotoxic,1
+urea,necrosis,1
+urea,ischaemic,1
+urea,ARF,1
+urea,nephrotoxic,1
+urea,acute renal failure,1
+NaOH,ARF,1
+polyethylene glycol,ARF,1
+isotretinoin,acne,1
+Isotretinoin,hypertelorism,1
+Isotretinoin,microphthalmos,1
+Isotretinoin,congenital abnormalities,1
+Isotretinoin,optic nerve hypoplasia,1
+terbutaline,bronchial asthma,1
+procaterol,asthmatic,1
+procaterol,tremorgenic,1
+ornithine,hypertrophied hearts,1
+propranolol,hypertrophied,1
+theophylline,tremors,1
+theophylline,nausea,1
+theophylline,vomiting,1
+oxitropium,tremors,1
+oxitropium,nausea,1
+oxitropium,vomiting,1
+Oxitropium,asthma,1
+Penicillin,anaphylaxis,1
+valproic acid,epilepsy,1
+valproic acid,hyperammonemia,1
+Scopolamine,amnesia,1
+methyl scopolamine,amnesia,1
+naloxone,pain,1
+scopolamine,pain,1
+cyclophosphamide,lesions of the urinary bladder,1
+mesna,lesions of the urinary bladder,1
+cyclophosphamide,necroses,1
+cyclophosphamide,edema,1
+H2O,muscle fasciculations,1
+Alfentanil,muscle fasciculations,1
+isoproterenol,diabetic,1
+isoproterenol,fibrosis,1
+ISO,diabetes,1
+ISO,cardiotoxic,1
+isoproterenol,diabetes,1
+ISO,fibrosis,1
+catecholamines,diabetic,1
+catecholamine,diabetic,1
+ISO,diabetic,1
+indomethacin,seizures,1
+mefenamic acid,seizures,1
+phenylbutazone,seizures,1
+sodium salicylate,seizures,1
+Indomethacin,seizures,1
+Mefenamic acid,brain damage,1
+Mefenamic acid,seizure,1
+Mefenamic acid,seizures,1
+etoposide,Acute neurologic dysfunction,1
+Etoposide,hematologic malignancies,1
+Etoposide,tumors,1
+VP-16-213,hematologic malignancies,1
+VP-16-213,tumors,1
+etoposide,toxicity,1
+thiabendazole,bile duct injury,1
+thiabendazole,jaundice,1
+calcium channel blocking agents,cardiovascular disease,1
+calcium channel blocking agents,cardiovascular diseases,1
+calcium,cardiovascular disease,1
+calcium,cardiovascular diseases,1
+nifedipine,angina,1
+dihydropyridine,hypertension,1
+dihydropyridine,angina,1
+nisoldipine,hypertension,1
+nitrendipine,hypertension,1
+nisoldipine,angina,1
+nimodipine,subarachnoid hemorrhage,1
+nimodipine,dementia,1
+nimodipine,stroke,1
+nimodipine,migraine headache,1
+calcium channel blockers,dizziness,1
+calcium channel blockers,nausea,1
+calcium channel blockers,headache,1
+calcium channel blockers,palpitations,1
+calcium channel blockers,anorexia,1
+calcium channel blockers,edema,1
+calcium channel blockers,flushing,1
+dihydropyridine,dizziness,1
+dihydropyridine,nausea,1
+dihydropyridine,headache,1
+dihydropyridine,palpitations,1
+dihydropyridine,anorexia,1
+dihydropyridine,edema,1
+dihydropyridine,flushing,1
+puromycin-aminonucleoside,FSGS,1
+puromycin-aminonucleoside,focal segmental glomerular sclerosis,1
+PS,focal segmental glomerular sclerosis,1
+protamine sulfate,FSGS,1
+protamine sulfate,focal segmental glomerular sclerosis,1
+AMNS,focal segmental glomerular sclerosis,1
+PS,toxicity,1
+PS,end-stage renal disease,1
+AMNS,toxicity,1
+AMNS,end-stage renal disease,1
+Theophylline,neurotoxicity,1
+theophylline,neurotoxicity,1
+aminophylline,seizures,1
+theophylline,neurotoxic,1
+indomethacin,Hyperkalemia,1
+fludrocortisone,Hyperkalemia,1
+naproxen,Hyperkalemia,1
+mefenamic acid,rheumatoid arthritis,1
+mefenamic acid,hypoaldosteronism,1
+mefenamic acid,nephropathy,1
+mefenamic acid,hyperkalemia,1
+indomethacin,rheumatoid arthritis,1
+indomethacin,hypoaldosteronism,1
+indomethacin,nephropathy,1
+naproxen,rheumatoid arthritis,1
+naproxen,hypoaldosteronism,1
+naproxen,nephropathy,1
+naproxen,hyperkalemia,1
+prostaglandin,type IV renal tubular acidosis,1
+prostaglandin,renal disease,1
+fludrocortisone,hyperkalemia,1
+5-fluorouracil,cardiotoxicity,1
+5-fluorouracil,Hypotension,1
+cisplatin,cardiotoxicity,1
+cisplatin,Hypotension,1
+5-fluorouracil,hypotension,1
+5-fluorouracil,left ventricular dysfunction,1
+5-fluorouracil,colorectal carcinoma,1
+CDDP,hypotension,1
+CDDP,left ventricular dysfunction,1
+CDDP,colorectal carcinoma,1
+cisplatin,hypotension,1
+cisplatin,left ventricular dysfunction,1
+cisplatin,colorectal carcinoma,1
+5-FU,hypotension,1
+5-FU,left ventricular dysfunction,1
+5-FU,colorectal carcinoma,1
+CDDP,cardiotoxicity,1
+carbamazepine,epileptic,1
+carbamazepine,bone marrow toxicity,1
+clonidine,bradycardiac,1
+5-HT,bradycardiac,1
+"5,7-dihydroxytryptamine",bradycardiac,1
+imipramine,Hypertension,1
+imipramine,neuroblastoma,1
+Imipramine,neuroblastoma,1
+Imipramine,behavior disorder,1
+beclomethasone dipropionate,oral candidiasis,1
+beclomethasone dipropionate,hoarseness,1
+beclomethasone,asthmatic,1
+beclomethasone,thrush,1
+prednisone,hoarseness,1
+prednisone,candidiasis,1
+beclomethasone,candidiasis,1
+Cyclophosphamide,cardiotoxicity,1
+CYA,toxicity,1
+CYA,Wiskott-Aldrich syndrome,1
+CYA,severe combined immunodeficiency syndrome,1
+CYA,Cardiotoxicity,1
+CYA,immunodeficiencies,1
+aminoglycosides,glomerular or tubular dysfunction,1
+creatinine,nephrotoxicity,1
+creatinine,liver disease,1
+aminoglycoside,liver disease,1
+aminoglycosides,nephrotoxicity,1
+aminoglycosides,liver disease,1
+aminoglycosides,acute renal failure,1
+monosodium glutamate,seizure,1
+MSG,convulsions,1
+Monosodium glutamate,convulsions,1
+naloxone,seizure,1
+flurothyl,hypothermia,1
+Flurothyl,hypothermia,1
+ether,hypothermia,1
+Pilocarpine,convulsive,1
+Pilocarpine,temporal lobe epilepsy,1
+Pilocarpine,seizures,1
+gamma-aminobutyric acid,seizures,1
+GABA,status epilepticus,1
+isoniazid,status epilepticus,1
+L-glutamic acid,status epilepticus,1
+L-glutamic acid,seizures,1
+"D,L-4-amino-hex-5-enoic acid",seizures,1
+gamma-vinyl-GABA,convulsions,1
+dipyridamole,depression,1
+dipyridamole,ischemic,1
+dipyridamole,myocardial ischemia,1
+methylprednisolone,Bradycardia,1
+MP,rheumatoid arthritis,1
+methylprednisolone,rheumatoid arthritis,1
+MP,heart disease,1
+carbamazepine,oscillopsia,1
+carbamazepine,nystagmus,1
+pentobarbital,cardiac failure,1
+TA-064,cardiac failure,1
+denopamine,arrhythmias,1
+Clonazepam,epilepsy,1
+clonazepam,epilepsy,1
+clonazepam,infantile spasms,1
+timolol maleate,hypertensive,1
+Salicylate,nephropathy,1
+glucuronyl,hyperbilirubinemia,1
+bilirubin,hyperbilirubinemia,1
+aspirin,hematuria,1
+aspirin,renal damage,1
+prostaglandin,hematuria,1
+prostaglandin,renal damage,1
+aspirin,pathological renal medullary lesions,1
+aspirin,deterioration of renal function,1
+prostaglandin,pathological renal medullary lesions,1
+prostaglandin,deterioration of renal function,1
+Lidocaine,arrhythmias,1
+Lidocaine,ventricular tachycardia,1
+lidocaine,arrhythmias,1
+lidocaine,infarction,1
+lidocaine,hypotension,1
+lidocaine,asystole,1
+neuroleptic,catalepsy,1
+atropine,catalepsy,1
+hemicholinium,catalepsy,1
+acetylcholine,catalepsy,1
+neuroleptics,catalepsy,1
+sodium pentobarbital,Cardiovascular dysfunction,1
+barium chloride,hypersensitivity,1
+barium chloride,Cardiovascular dysfunction,1
+Barium,hypertension,1
+barium,hypertension,1
+barium,disturbances within the cardiovascular system,1
+sodium pentobarbital,cardiomyopathic disorder,1
+sodium pentobarbital,metabolic disturbances,1
+barium,cardiomyopathic disorder,1
+barium,metabolic disturbances,1
+Propranolol,hypertension,1
+phenylpropanolamine,hypertension,1
+PPA,overdose,1
+PPA,intracerebral hemorrhage,1
+Phenylpropanolamine,overdose,1
+Phenylpropanolamine,hypertension,1
+Phenylpropanolamine,intracerebral hemorrhage,1
+PPA,stroke,1
+aminonucleoside,glomerular sclerosis,1
+puromycin aminonucleoside,mesangial dysfunction,1
+puromycin aminonucleoside,glomerular sclerosis,1
+PAN,mesangial dysfunction,1
+carbon,proteinuric,1
+PAN,proteinuric,1
+PAN,sclerosis,1
+PAN,nephrosis,1
+nicotine,seizure,1
+dithiothreitol,seizure,1
+p-aminophenol,nephrotoxicity,1
+acetaminophen,nephrotoxicity,1
+Acetaminophen,tubular necrosis,1
+APAP,tubular necrosis,1
+APAP,renal tubular necrosis,1
+PAP,renal tubular necrosis,1
+Morphine,seizures,1
+morphine sulfate,seizures,1
+morphine,convulsions,1
+vincristine sulfate,Pseudomonas infections,1
+vincristine sulfate,leukopenia,1
+vincristine sulfate,infection,1
+FZP,muscle tremors,1
+FZP,salivation,1
+FZP,toxocity,1
+FZP,epilepsy,1
+propranolol,tachycardia,1
+atenolol,tachycardia,1
+atropine,tachycardia,1
+cyclosporine,infection,1
+Aza,infection,1
+cyclosporine,bacteremias,1
+Aza,staphylococcal infections,1
+cyclosporine,CMV infection,1
+cyclosporine,Epstein Barr Virus infection,1
+cholecystokinin,seizures,1
+cholecystokinin octapeptide,seizures,1
+CCK-8,seizures,1
+vasopressin,hypertensive,1
+Vasopressin,diabetes insipidus,1
+DOCA,hypertension,1
+DOCA,diabetes insipidus,1
+lithium,hypertension,1
+lithium,diabetes insipidus,1
+disulfiram,Toxic hepatitis,1
+disulfiram,toxic liver damage,1
+quinacrine hydrochloride,Atrial thrombosis,1
+sodium nitrite,atrial thrombosis,1
+sodium nitrite,thrombosis,1
+quinacrine hydrochloride,thrombosis,1
+propranolol,sinoatrial block,1
+propranolol,sinoatrial (S-A) block,1
+propranolol,angina,1
+propranolol,S-A block,1
+propranolol,conduction disorder,1
+doxorubicin,albuminuria,1
+pilocarpine,bradycardia,1
+pilocarpine,hypotension,1
+timolol,bradycardia,1
+timolol,hypotension,1
+pilocarpine nitrate,hypotensive,1
+pilocarpine nitrate,bradycardia,1
+timolol maleate,hypotensive,1
+timolol maleate,bradycardia,1
+Succinylcholine,apnoea,1
+succinylcholine,neuromuscular blockade,1
+succinylcholine,apnoea,1
+I-131 HA,cardiotoxicity,1
+nitroprusside,hypotension,1
+TMP,hypotension,1
+trimetaphan,hypotension,1
+D-amphetamine,hyperactivity,1
+amphetamine,stereotypies,1
+DSP4,stereotypies,1
+amphetamine,neurotoxic,1
+noradrenaline,hyperactivity,1
+noradrenaline,neurotoxic,1
+desipramine,hyperactivity,1
+desipramine,neurotoxic,1
+DSP4,neurotoxic,1
+verapamil,Accelerated junctional rhythms,1
+verapamil,accelerated junctional rhythms,1
+verapamil,chest pain,1
+cis-platinum,ovarian cancer,1
+HMM,ovarian cancer,1
+cisplatinum,ovarian cancer,1
+CPDD,ovarian cancer,1
+HMM,gastrointestinal toxicity,1
+oral contraceptives,hypertension,1
+oral contraceptives,dissecting aneurysm,1
+oral contraceptives,locked-in syndrome,1
+Propylthiouracil,hepatic damage,1
+propylthiouracil,liver damage,1
+bepridil,bradycardia,1
+Bepridil,bradycardia,1
+Bepridil,tachycardial,1
+Bepridil,anginal attacks,1
+methoxyflurane,Hepatitis,1
+methoxyflurane,acute cholecystitis,1
+methoxyflurane,hepatic insufficiency syndrome,1
+rifampicin,renal failure,1
+rifampicin,thrombopenia,1
+rifampicin,hemolysis,1
+adenosine triphosphate,hypotension,1
+Adenosine triphosphate,hypotension,1
+ATP,Hypotension,1
+Dimer-X,dizziness,1
+Dimer-X,nausea,1
+Endografine,abdominal pain,1
+Vasurix polyvidone,toxicity,1
+Hexabrix,toxicity,1
+contrast media,toxicity,1
+suxamethonium,pains,1
+Fazadinium,pain,1
+chloride,pain,1
+bromide,pain,1
+Thiopentone,pain,1
+suxamethonium,pain,1
+Althesin,pain,1
+L-norepinephrine,spasm,1
+L-norepinephrine,hernias,1
+quinine,amblyopia,1
+quinine sulfate,blindness,1
+quinine sulfate,leg cramps,1
+quinine sulfate,tonic pupillary,1
+quinine,toxicity,1
+quinine,tonic pupillary,1
+Suxamethonium,jaw stiffness,1
+Suxamethonium,myalgia,1
+suxamethonium,prolonged jaw rigidity,1
+suxamethonium,myalgia,1
+pancuronium,prolonged jaw rigidity,1
+pancuronium,myalgia,1
+Indomethacin,hyperkalemia,1
+Indomethacin,gouty arthritis,1
+indomethacin,gouty arthritis,1
+indomethacin,renal insufficiency,1
+prostaglandin,hyporeninemic hypoaidosteronism,1
+indomethacin,diabetes mellitus,1
+indomethacin,renal disease,1
+potassium,diabetes mellitus,1
+potassium,renal disease,1
+Levodopa,dyskinesias,1
+apomorphine,Parkinson's disease,1
+fluoxetine,Parkinson's disease,1
+apomorphine,parkinsonian,1
+dopamine,parkinsonian,1
+fluoxetine,parkinsonian,1
+cephalexin,drug toxicity,1
+trimethoprim-sulfamethoxazole,drug toxicity,1
+trimethoprim,drug toxicity,1
+cephalexin,"liver, blood, skin, and renal disorders",1
+TMP-SMZ,"liver, blood, skin, and renal disorders",1
+trimethoprim-sulfamethoxazole,"liver, blood, skin, and renal disorders",1
+trimethoprim,"liver, blood, skin, and renal disorders",1
+TMP-SMZ,liver disease,1
+TMP-SMZ,Stevens-Johnson syndrome,1
+TMP-SMZ,erythema multiforme,1
+cephalexin,toxic epidermal necrolysis,1
+cocaine,ventricular fibrillation,1
+cocaine,cardiovascular or central nervous system toxicity,1
+cocaine,bradydysrhythmias,1
+cocaine,ventricular tachycardia,1
+lidocaine,ventricular fibrillation,1
+lidocaine,cardiovascular or central nervous system toxicity,1
+lidocaine,bradydysrhythmias,1
+lidocaine,seizures,1
+lidocaine,toxicity,1
+carboplatin,non-small cell lung cancer,1
+Paclitaxel,non-small cell lung cancer,1
+Taxol,non-small cell lung cancer,1
+paclitaxel,Toxicities,1
+carboplatin,hematologic toxicities,1
+Carboplatin,hematologic toxicities,1
+paclitaxel,hematologic toxicities,1
+misoprostol,renal dysfunction,1
+Misoprostol,renal dysfunction,1
+Misoprostol,cirrhotic,1
+misoprostol,cirrhotic,1
+sodium,cirrhotic,1
+angiotensin-converting enzyme inhibitor,angio-oedema,1
+Angiotensin-converting enzyme (ACE) inhibitors,hypertension,1
+Angiotensin-converting enzyme (ACE) inhibitors,congestive heart failure,1
+lorazepam,Myoclonus,1
+lorazepam,myoclonus,1
+carbamazepine,cardiogenic shock,1
+carbamazepine,eosinophilic myocarditis,1
+5-hydroxytryptamine,nausea,1
+5-hydroxytryptamine,vomiting,1
+Kytril,nausea,1
+Kytril,vomiting,1
+cisplatin,Headache,1
+granisetron,Headache,1
+verapamil,atrioventricular (AV) block,1
+verapamil,hypotension,1
+clonidine,atrioventricular (AV) block,1
+spironolactone,hyperaldosteronism,1
+verapamil,hyperaldosteronism,1
+calcium,audiogenic tonic convulsions,1
+S-312,audiogenic tonic convulsions,1
+S-312-l,audiogenic tonic convulsions,1
+S-312-d,audiogenic tonic convulsions,1
+pentylenetetrazole,convulsions,1
+S-312-d,convulsions,1
+picrotoxin,convulsions,1
+N-methyl-D-aspartate,convulsions,1
+S-312-d,epilepsy,1
+sumatriptan,cluster headache,1
+flumazenil,seizures,1
+benzodiazepine,seizures,1
+GM,tubular damage,1
+cGMP,nephropathy,1
+"guanosine 3',5'-cyclic monophosphate",nephropathy,1
+DMTU,tubular damage,1
+superoxide,nephropathy,1
+DMTU,nephropathy,1
+arginine vasopressin,hypertensive,1
+phenylephrine,hypotension,1
+Phe,hypertension,1
+Phe,hypotension,1
+SN,hypertension,1
+sodium nitroprusside,hypertension,1
+AVP,hypotension,1
+warfarin,intracerebral hemorrhage,1
+warfarin,hematoma,1
+piroxicam,coagulopathy,1
+azathioprine,cardiomyopathy,1
+azathioprine,hypertrophic cardiomyopathy,1
+azathioprine,idiopathic cardiomyopathy,1
+azathioprine,congenital heart disease,1
+azathioprine,valvular heart disease,1
+doxorubicin,hypertrophic cardiomyopathy,1
+doxorubicin,idiopathic cardiomyopathy,1
+doxorubicin,congenital heart disease,1
+doxorubicin,valvular heart disease,1
+cyclosporine,cardiomyopathy,1
+cyclosporine,hypertrophic cardiomyopathy,1
+cyclosporine,idiopathic cardiomyopathy,1
+cyclosporine,congenital heart disease,1
+cyclosporine,valvular heart disease,1
+ganciclovir,Cytomegalovirus infections,1
+fluoxetine,Delirium,1
+citalopram,somnolence,1
+citalopram,movement difficulties,1
+fluoxetine,hyperkinetic,1
+fluoxetine,delirium,1
+desmethylfluoxetine,hyperkinetic,1
+desmethylfluoxetine,delirium,1
+aracytine-C,lymphoma,1
+aracytine-C,Pulmonary edema,1
+aracytine-C,shock,1
+Ara-C,lymphomas,1
+Ara-C,shock,1
+Ara-C,adult respiratory distress syndrome,1
+epinephrine,cardiomyopathy,1
+calcium,cardiomyopathy,1
+clentiazem,cardiomyopathy,1
+"1,5-benzothiazepine",cardiomyopathy,1
+clentiazem,ischemic lesions,1
+clentiazem,fibrosis,1
+Cocaine,myocardial ischemia,1
+nitroglycerin,ischemia,1
+nitroglycerin,coronary artery spasm,1
+calcium,ischemia,1
+calcium,coronary artery spasm,1
+doxorubicin,hypertrophic,1
+ICRF-187,toxicity,1
+ICRF-187,cardiotoxicity,1
+bupivacaine,dysrhythmias,1
+epinephrine,myocardial infarction,1
+bupivacaine,myocardial infarction,1
+halothane,myocardial infarction,1
+Bupivacaine,dysrhythmias,1
+Bupivacaine,VT,1
+"1,25(OH)2D",Milk-alkali syndrome,1
+"1,25(OH)2D",hypoparathyroidism,1
+calcium,Milk-alkali syndrome,1
+calcium,peptic ulcer disease,1
+alkali,Milk-alkali syndrome,1
+alkali,peptic ulcer disease,1
+sucralfate,milk-alkali syndrome,1
+sucralfate,renal impairment,1
+sucralfate,alkalosis,1
+sucralfate,ulcer,1
+sucralfate,hypercalcemia,1
+omeprazole,milk-alkali syndrome,1
+omeprazole,renal impairment,1
+omeprazole,alkalosis,1
+omeprazole,ulcer,1
+omeprazole,hypercalcemia,1
+calcium carbonate,milk-alkali syndrome,1
+calcium carbonate,hypoparathyroidism,1
+calcitriol,milk-alkali syndrome,1
+calcitriol,hypoparathyroidism,1
+pamidronate,milk-alkali syndrome,1
+pamidronate,hypercalcemic emergency,1
+amitriptyline,neuroleptic malignant syndrome,1
+amitriptyline,serotonin syndrome,1
+amitriptyline,encephalopathy,1
+amitriptyline,unipolar depression,1
+amitriptyline,Encephalopathy,1
+dopamine,serotonin syndrome,1
+dopamine,SS,1
+dopamine,NMS,1
+dopamine,neuroleptic malignant syndrome,1
+serotonin,serotonin syndrome,1
+serotonin,SS,1
+serotonin,NMS,1
+serotonin,neuroleptic malignant syndrome,1
+estrogen,tumor,1
+estrogen,pituitary tumors,1
+DES,hemorrhagic,1
+nitric oxide,bladder irritation,1
+nitric oxide,irritation of the urinary tract,1
+acrolein,cystitis,1
+calcium,myocardial ischemia,1
+calcium,coronary stenosis,1
+nifedipine,myocardial ischemia,1
+nifedipine,coronary stenosis,1
+diltiazem,myocardial ischemia,1
+diltiazem,coronary stenosis,1
+ISO,coronary stenosis,1
+ISO,coronary artery stenosis,1
+nifedipine,stenosis,1
+diltiazem,stenosis,1
+puromycin aminonucleoside,glomerular disease,1
+PAN,glomerular disease,1
+PAN,growth failure,1
+PAN,glomerulopathy,1
+malondialdehyde,glomerular hypertrophy,1
+malondialdehyde,tubulointerstitial injury,1
+malondialdehyde,glomerulosclerosis,1
+malondialdehyde,tubulointerstitial damage,1
+malondialdehyde,proteinuria,1
+DM-9384,amnesia,1
+Nefiracetam,amnesia,1
+pyrrolidone,learning and post-training consolidation deficits,1
+Nefiracetam,learning and post-training consolidation deficits,1
+scopolamine,learning and post-training consolidation deficits,1
+thyrotropin,hypercapnic,1
+corticotropin,hypercapnic,1
+hepatitis B surface antigen,hepatitis B,1
+"2',3'-dideoxy cytosine",hepatitis B,1
+OCs,venous thromboembolism,1
+progestagens,venous thromboembolism,1
+desogestrel,venous thromboembolism,1
+gestodene,venous thromboembolism,1
+oral contraceptives,VTE,1
+progestagen,VTE,1
+OCs,venous thrombosis,1
+OCs,thrombosis,1
+OCs,deep-vein thrombosis,1
+ethinyloestradiol,VTE,1
+pilocarpine,tonic and clonic seizure,1
+Pilocarpine,neuronal death,1
+Pentobarbital,brain damage,1
+scopolamine,brain damage,1
+Paclitaxel,breast cancer,1
+5-Fluorouracil,breast cancer,1
+Taxol,breast cancer,1
+5-fluorouracil,cytotoxicity,1
+Paclitaxel,cytotoxicity,1
+granulocyte colony-stimulating factor,neutropenia,1
+"d,l-sotalol",proarrhythmia,1
+"d,l-sotalol",coronary artery disease,1
+"d,l-sotalol",dilated cardiomyopathy,1
+"d,l-sotalol",cardiac disease,1
+"d,l-sotalol",Torsades de pointes,1
+haloperidol,Hyperprolactinemia,1
+dopamine,Hyperprolactinemia,1
+norepinephrine,hyperprolactinemia,1
+serotonin,hyperprolactinemia,1
+5-HIAA,hyperprolactinemia,1
+5-hydroxyindoleacetic acid,hyperprolactinemia,1
+5-HT,hyperprolactinemia,1
+NE,hyperprolactinemia,1
+methotrexate,leukoencephalopathy,1
+all-trans-retinoic acid,Thrombotic,1
+all-trans-retinoic acid,APL,1
+all-trans-retinoic acid,occlusion of renal vessels,1
+all-trans-retinoic acid,acute renal failure,1
+ATRA,occlusion of renal vessels,1
+tranexamic acid,APL,1
+tranexamic acid,acute promyelocytic leukemia,1
+tranexamic acid,occlusion of renal vessels,1
+tranexamic acid,acute renal failure,1
+ATRA,thromboembolic,1
+heparin,Thrombotic,1
+cocaine,manic,1
+diethylpropion,manic,1
+DEP,pupillary oscillation,1
+ibuprofen,pain,1
+ondansetron,depression,1
+ondansetron,postoperative nausea and vomiting,1
+serotonin,major depression disorder,1
+propofol,depression disorder,1
+propofol,nausea,1
+serotonin,depression disorder,1
+serotonin,nausea,1
+dobutamine,Hypertensive,1
+dobutamine,hypertension,1
+dobutamine,hypertensive,1
+lithium,Hyperosmolar nonketotic coma,1
+lithium,manic depression,1
+lithium,"hyperosmolar, nonketotic coma",1
+glucose,polydipsia,1
+glucose,polyuria,1
+glucose,polyuric,1
+glucose,hyperglycaemia,1
+glucose,nephrogenic diabetes insipidus,1
+lithium,polyuric,1
+lithium,hyperglycaemia,1
+cocaine,deterioration of left ventricular (LV) systolic function,1
+cocaine hydrochloride,chest pain,1
+cocaine,deterioration of LV systolic and diastolic performance,1
+Heparin,thromboembolism,1
+heparin,thromboembolism,1
+indinavir,ureteric obstruction,1
+indinavir,urolithiasis,1
+indinavir,ureteric calculi,1
+indinavir,HIV-infected,1
+indinavir,Ureteric obstruction,1
+indinavir,ureteric stones or obstruction,1
+indinavir,HIV infection,1
+sumatriptan,Ischemic colitis,1
+sumatriptan,myocardial ischemia,1
+sumatriptan,coronary vasospasm,1
+sumatriptan,migraine,1
+sumatriptan,ischemic colitis,1
+L-DOPA,bradykinesia,1
+L-DOPA,rigidity,1
+L-DOPA,Parkinson's disease,1
+methylphenidate,Neuroleptic malignant syndrome,1
+BS,intrahepatic cholestasis,1
+bile salt,intrahepatic cholestasis,1
+17alpha-ethinylestradiol,intrahepatic cholestasis,1
+EE,intrahepatic cholestasis,1
+Glibenclamide,hypotension,1
+Helodermin,hypotension,1
+glibenclamide,Hypotension,1
+levcromakalim,Hypotension,1
+ACh,hypotension,1
+acetylcholine,hypotension,1
+glibenclamide,hypotension,1
+K,hypotension,1
+nitric oxide,hypotension,1
+nifedipine,psoriasis,1
+cyclosporin A,psoriasis,1
+calcium,hypertension,1
+calcium,psoriatic,1
+blood urea nitrogen,gingival hyperplasia,1
+nifedipine,hypertensive,1
+dobutamine,Torsade de pointes,1
+dobutamine,congestive heart failure,1
+dobutamine,dilated cardiomyopathy,1
+dobutamine,arrhythmias,1
+dobutamine,torsade de pointes,1
+5-fluorouracil,dehydration,1
+5-fluorouracil,infection,1
+5-FU,cancer,1
+ammonium,infection,1
+ammonium,azotemia,1
+ammonium,dehydration,1
+ammonium,hyperammonemia,1
+4-aminopyridine,hypoactivity,1
+4-aminopyridine,hyperactivity,1
+quinine,hypoactivity,1
+quinine,hyperactivity,1
+orphanin FQ,learning and memory impairment,1
+nocistatin,learning and memory impairment,1
+Nociceptin,learning and memory impairment,1
+scopolamine,learning and memory impairment,1
+orphanin FQ,allodynia,1
+orphanin FQ,hyperalgesia,1
+nocistatin,allodynia,1
+nocistatin,hyperalgesia,1
+Nociceptin,allodynia,1
+Nociceptin,hyperalgesia,1
+nociceptin,allodynia,1
+nociceptin,hyperalgesia,1
+orphanin FQ,impairment of learning and memory,1
+nociceptin,impairment of learning and memory,1
+nocistatin,impairment of learning and memory,1
+scopolamine,impairment of learning and memory,1
+Meloxicam,liver toxicity,1
+meloxicam,rheumatoid arthritis,1
+meloxicam,hypersensitivity,1
+meloxicam,hepatic damage,1
+meloxicam,liver toxicity,1
+"(S)-(-)-3-bromo-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2,6-dimethoxybenz amide",aplastic anemia,1
+NCQ436,necrosis,1
+NCQ344,necrosis,1
+benzene,aplastic anemia,1
+NCQ436,aplastic anemia,1
+NCQ344,aplastic anemia,1
+NADPH,catalepsy,1
+NG-nitro-L-arginine,catalepsy,1
+dopamine,catalepsy,1
+dobutamine,myocardial ischaemia,1
+dobutamine,myocardial stunning,1
+Dobutamine,ischaemia,1
+Dobutamine,coronary artery disease,1
+fenfluramine,primary pulmonary hypertension,1
+fenfluramine,PPH,1
+Heparin,thrombosis,1
+heparin,thrombotic,1
+heparin,Bleeding,1
+heparin,bleeding,1
+heparin,priapism,1
+heparin,hypoaldosteronism,1
+heparin,hyperkalemia,1
+FK506,optic neuropathy,1
+FK 506,optic neuropathy,1
+tacrolimus,Deterioration of vision,1
+Tacrolimus,optic nerve toxicity,1
+lithium,bradyarrhythmia,1
+lithium,hypercalcemias,1
+lithium,malignancies,1
+amphotericin B-sodium deoxycholate,toxicity,1
+Fungizone,toxicity,1
+D-AmB,toxicity,1
+D-AmB,tubular necrosis,1
+sulfadiazine,acute nephrotoxicity,1
+Sulfadiazine,toxoplasmosis,1
+Sulfadiazine,acute nephrotoxicity,1
+sulfadiazine,renal failure,1
+sulfadiazine,oliguria,1
+sulfadiazine,abdominal pain,1
+sulfadiazine,renal calculi,1
+morphine,Downbeat nystagmus,1
+morphine,downbeating nystagmus,1
+morphine,dizziness,1
+amiodarone,tachycardia,1
+dronedarone,tachycardia,1
+dronedarone,arrhythmias,1
+doxorubicin,carcinoma of the peritoneum,1
+doxorubicin,ovarian and fallopian tube cancers,1
+platinum,carcinoma of the peritoneum,1
+platinum,ovarian and fallopian tube cancers,1
+paclitaxel,carcinoma of the peritoneum,1
+paclitaxel,ovarian and fallopian tube cancers,1
+platinum,erythrodysesthesia,1
+platinum,hand-foot syndrome,1
+platinum,stomatitis,1
+doxorubicin,erythrodysesthesia,1
+doxorubicin,ovarian cancer,1
+Doxil,erythrodysesthesia,1
+Doxil,hand-foot syndrome,1
+Doxil,ovarian cancer,1
+Doxil,stomatitis,1
+doxorubicin,peritoneal carcinoma,1
+doxorubicin,ovarian or fallopian tube cancers,1
+platinum,peritoneal carcinoma,1
+platinum,ovarian or fallopian tube cancers,1
+paclitaxel,peritoneal carcinoma,1
+paclitaxel,ovarian or fallopian tube cancers,1
+paclitaxel,ovarian cancer,1
+olanzapine,Mania,1
+olanzapine,manic,1
+olanzapine,bipolar disorder,1
+Olanzapine,bipolar mania,1
+isotretinoin,Taussig-Bing malformation,1
+isotretinoin,anotia,1
+Methoxamine,a significant rise in systolic blood pressure,1
+angiotensin-converting enzyme inhibitors,heart failure,1
+angiotensin-converting enzyme (ACE) inhibitors,heart failure,1
+angiotensin-converting enzyme (ACE) inhibitors,CHF,1
+lisinopril,CHF,1
+ACE inhibitor,CHF,1
+cocaethylene,cocaine and ethanol abuse,1
+cocaethylene,cardiotoxity,1
+Cocaine,cocaine and ethanol abuse,1
+Cocaine,cardiotoxity,1
+ethanol,cocaine and ethanol abuse,1
+ethanol,cardiotoxity,1
+cocaethylene,cardiac toxicity,1
+cocaine,cardiac toxicity,1
+ethanol,cardiac toxicity,1
+CE,cardiac toxicity,1
+cocaine,cardiotoxicity,1
+ethanol,cardiotoxicity,1
+CE,cardiotoxicity,1
+CE,decrease in cardiac output,1
+cocaethylene,myocardial depression,1
+veralipride,Parkinsonism,1
+veralipride,Parkinson's disease,1
+Viracept,irregular heartbeat,1
+Viracept,irregular heart beat,1
+Viracept,bradycardia,1
+Viracept,Bradycardia,1
+propylthiouracil,vasculitis,1
+PTU,vasculitic disorders,1
+PTU,fever,1
+PTU,oral ulcers,1
+PTU,polyarthralgia,1
+cocaine,coronary artery or myocardial disease,1
+ethanol,myocardial infarction,1
+sotalol,torsade de pointes,1
+azimilide,TdP,1
+azimilide,torsade de pointes,1
+Sotalol,QT prolongation,1
+cocaine,hemorrhage,1
+cocaine,cysts,1
+cocaine,cocaine abuse,1
+cocaine,subependymal cyst,1
+Thalidomide,neuropathy,1
+Thalidomide,prostate cancer,1
+thalidomide,neuropathy,1
+thalidomide,Neuropathy,1
+zinc,hearing loss,1
+superoxide,hearing loss,1
+kanamycin,hearing loss,1
+copper,hearing loss,1
+oxygen,ototoxicity,1
+iron,ototoxicity,1
+Zn,ototoxicity,1
+Cu,ototoxicity,1
+Prednisone,anxiety,1
+prednisone,anxiety,1
+PDN,Anxiety,1
+carboplatin,squamous cell carcinoma of the cervix,1
+doxorubicin,squamous cell carcinoma of the cervix,1
+carboplatin,squamous cell cervical carcinoma,1
+doxorubicin,squamous cell cervical carcinoma,1
+Doxil,squamous cell cervical carcinoma,1
+erythromycin,manic,1
+metronidazole,manic,1
+Cotrimoxazole,manic,1
+ciprofloxacin,mania,1
+clarithromycin,mania,1
+levodopa,ocular dyskinesias,1
+prostaglandins,dysmenorrhea,1
+nitric oxide,dysmenorrhea,1
+NO,dysmenorrhea,1
+GTN,pelvic pain,1
+DCF,pelvic pain,1
+GTN,Headache,1
+DCF,Headache,1
+GTN,headache,1
+angiotensin,glomerular injury,1
+angiotensin,nephrosis,1
+Temocapril,glomerular injury,1
+Temocapril,nephrosis,1
+puromycin aminonucleoside,glomerular injury,1
+puromycin aminonucleoside,nephrosis,1
+angiotensin,nephrotic,1
+angiotensin,hypertrophy,1
+angiotensin,glomerulosclerosis,1
+angiotensin,proteinuria,1
+temocapril,nephrotic,1
+temocapril,hypertrophy,1
+temocapril,glomerulosclerosis,1
+temocapril,proteinuria,1
+puromycin aminonucleoside,nephrotic,1
+puromycin aminonucleoside,hypertrophy,1
+puromycin aminonucleoside,glomerulosclerosis,1
+puromycin aminonucleoside,proteinuria,1
+PAN,nephrotic,1
+PAN,hypertrophy,1
+PAN,glomerulosclerosis,1
+PAN,proteinuria,1
+PAN,Nephrosis,1
+Temocapril,proteinuria,1
+temocapril,neprotic,1
+PAN,neprotic,1
+ibuprofen,Pulmonary hypertension,1
+ibuprofen,patent ductus arteriosus,1
+nitric oxide,Hypoxaemia,1
+vincristine,syndrome of inappropriate anti-diuretic hormone,1
+vincristine,Hyponatremia,1
+vincristine,syndrome of inappropriate secretion of anti-diuretic hormone,1
+Vincristine,SIADH,1
+Vincristine,syndrome of inappropriate anti-diuretic hormone,1
+Vincristine,Hyponatremia,1
+Vincristine,hyponatremia,1
+Vincristine,syndrome of inappropriate secretion of anti-diuretic hormone,1
+CY,haemorrhagic,1
+mitomycin C,gastric cancer,1
+5-fluorouracil,AGC,1
+5-fluorouracil,toxicity,1
+folinic acid,AGC,1
+folinic acid,toxicity,1
+5-FU,gastric cancer,1
+FA,gastric cancer,1
+mitomycin C,toxicity,1
+MMC,toxicity,1
+5-FU,hemolytic-uremic syndrome,1
+5-FU,HUS,1
+MMC,AGC,1
+MMC,hemolytic-uremic syndrome,1
+MMC,HUS,1
+FA,hemolytic-uremic syndrome,1
+FA,HUS,1
+cisplatin,HUS,1
+indinavir,impaired renal function,1
+creatinine,hematuria,1
+Indinavir,nephrotoxicity,1
+Indinavir,leukocyturia,1
+cocaine,myocardial necrosis,1
+cocaine,necrosis,1
+Sermion,fever,1
+Sermion,AIN,1
+Sermion,acute renal failure,1
+Sermion,interstitial nephritis,1
+nicergoline,fever,1
+nicergoline,acute renal failure,1
+nicergoline,interstitial nephritis,1
+bendazac lysine,retinal vein occlusion,1
+nicergoline,retinal vein occlusion,1
+levomepromazine,chronic renal failure,1
+levomepromazine,NMS,1
+levomepromazine,CRF,1
+levomepromazine,neuroleptic malignant syndrome,1
+risperidone,chronic renal failure,1
+risperidone,NMS,1
+risperidone,CRF,1
+risperidone,neuroleptic malignant syndrome,1
+triphenyltetrazolium,hypertension,1
+TTC,hypertension,1
+Adrenaline,hypertension,1
+Carvedilol,cardiomyopathy,1
+carvedilol,toxicity,1
+carvedilol,mitochondrial dysfunction,1
+carvedilol,cancer,1
+carvedilol,cardiomyopathy,1
+Cocaine,hyperactivity,1
+adenosine,decreased the locomotor activity,1
+Amiodarone,atrial fibrillation,1
+Amiodarone,bradyarrhythmia,1
+Amiodarone,myocardial infarction,1
+amiodarone,ventricular arrhythmias,1
+amiodarone,MI,1
+Indomethacin,interstitial cystitis,1
+Indomethacin,mastocytosis,1
+thalidomide,haematological malignancies,1
+levobupivacaine,Central nervous system toxicity,1
+levobupivacaine,grand mal seizures,1
+epinephrine,grand mal seizures,1
+succinylcholine,seizures,1
+sodium thiopental,seizures,1
+levobupivacaine,convulsions,1
+bupivacaine,cardiac toxicity,1
+bupivacaine,convulsions,1
+chloride,Myotonia congenita,1
+chloride,sustained membrane depolarisation,1
+chloride,MC,1
+suxamethonium,muscle spasm,1
+pilocarpine,epilepsy,1
+pilocarpine,hyperventilation,1
+levodopa,bradykinesia,1
+levodopa,rigidity,1
+levodopa,drug-induced dyskinesias,1
+carboplatin,fibrosis,1
+ethambutol,tuberculosis of the lung or lymph node,1
+glycopyrrolate,sweating,1
+glycopyrrolate,sore throat,1
+glycopyrrolate,headache,1
+glycopyrrolate,dry mouth,1
+VNR,malignancies,1
+VNR,cancer,1
+GEM,cardiac diseases,1
+GEM,cardiotoxic,1
+anthracyclines,cardiac diseases,1
+anthracyclines,cardiotoxic,1
+VDS,cardiac diseases,1
+VDS,cardiotoxic,1
+gemcitabine,cardiac diseases,1
+gemcitabine,cardiotoxic,1
+fluorouracil,cardiac diseases,1
+fluorouracil,cardiotoxic,1
+VNR,cardiac diseases,1
+VNR,cardiotoxic,1
+vindesine,cardiac diseases,1
+vindesine,cardiotoxic,1
+trimethoprim-sulfomethoxazole,cerebral anoxia,1
+trimethoprim-sulfomethoxazole,hemolytic anemia,1
+Vigabatrin,seizure,1
+Vigabatrin,toxicity,1
+tacrolimus,facial inflammatory dermatoses,1
+Tacrolimus,rosacea,1
+Tacrolimus,perioral dermatitis,1
+steroid,rosacea,1
+steroid,perioral dermatitis,1
+tacrolimus,inflammatory facial dermatoses,1
+MA,structural deficits in the human brain,1
+methamphetamine,structural deficits in the human brain,1
+MA,metabolic abnormalities,1
+MA,cognitive impairment,1
+MA,"abnormalities in the cortex, hippocampus, white matter, and ventricles",1
+methamphetamine,impaired memory performance,1
+MA,brain injury,1
+Amiodarone,hepatotoxicity,1
+glucose,hepatomegaly,1
+triglycerides,hepatomegaly,1
+Amiodarone,hepatomegaly,1
+amiodarone,hepatomegaly,1
+amiodarone,weight loss,1
+amiodarone,hepatoma,1
+amiodarone,hepatotoxic,1
+amiodarone,hepatotoxicity,1
+Niacin extended-release/lovastatin,hypercholesterolemia,1
+Niacin extended-release/lovastatin,dyslipidemia,1
+niacin extended-release/lovastatin,dyslipidemia,1
+alanine,Flushing,1
+aspartate,Flushing,1
+Terminalia chebula,myocardial injury,1
+ethanolic extract of Terminalia chebula fruits,myocardial damage,1
+isoproterenol,myocardial damage,1
+droperidol,anxiety,1
+droperidol,psychological disturbance,1
+lithium,polydipsia,1
+Lithium,nephrogenic DI,1
+lithium,neurogenic DI,1
+lithium,brain trauma,1
+ribavirin,hemolytic anemia,1
+Interferon,chronic hepatitis C,1
+Interferon,hemolytic anemia,1
+interferon-alpha-2b,chronic hepatitis C,1
+Ribavirin,anemia,1
+adriamycin,mitochondrial injury,1
+oxygen,cardiotoxicity,1
+nitrogen,cardiotoxicity,1
+ADR,mitochondrial injury,1
+4HNE,mitochondrial injury,1
+Sotalol,dilated cardiomyopathy,1
+Sotalol,coronary spasm,1
+Sotalol,ventricular tachycardia,1
+nifekalant hydrochloride,dilated cardiomyopathy,1
+nifekalant hydrochloride,ventricular dysfunction,1
+nifekalant hydrochloride,VT,1
+nifekalant hydrochloride,ventricular tachycardia,1
+sotalol,VT,1
+sotalol,Coronary vasospasm,1
+apomorphine,oral stereotypies,1
+dexamphetamine,oral stereotypies,1
+trazodone,oral stereotypies,1
+haloperidol,oral stereotypies,1
+ergometrine,catalepsy,1
+fluoxetine,catalepsy,1
+5-HT,catalepsy,1
+levodopa,dyskinetic,1
+levodopa,dysphagia,1
+gentamicin,fibrosis,1
+Glucose,schizophrenia,1
+glucose,diabetes mellitus,1
+glucose,diabetes,1
+risperidone,schizoaffective disorder,1
+clozapine,schizoaffective disorder,1
+clozapine,schizophrenia,1
+glucose,insulin sensitivity,1
+phenylephrine,cerebral ischemia,1
+phenylephrine,middle cerebral artery occlusion,1
+phenylephrine,ischemic brain injury,1
+phenylephrine,hypertensive,1
+"2,3,5-triphenyltetrazolium chloride",brain injury,1
+"2,3,5-triphenyltetrazolium chloride",edema,1
+Evans Blue,HTN,1
+warfarin,strokes,1
+warfarin,bleeding,1
+warfarin,hemorrhages,1
+nimesulide,skin reactions,1
+celecoxib,skin reactions,1
+paracetamol,skin reactions,1
+acetaminophen,skin reactions,1
+P,cutaneous reactions,1
+N,cutaneous reactions,1
+CE,cutaneous reactions,1
+P,skin reactions,1
+N,skin reactions,1
+CE,hypersensitivity,1
+aspirin,end-stage renal disease,1
+aspirin,nephropathy,1
+amisulpride,overdose,1
+amisulpride,prolonged QT syndrome,1
+cycloheximide,epileptic,1
+cycloheximide,status epilepticus,1
+CHX,status epilepticus,1
+Pilo,status epilepticus,1
+oestrogen,stroke,1
+oestrogen,gallbladder disease,1
+Amoxicillin-clavulanate,DILI,1
+d-ribose,cardiotoxicity,1
+adriamycin,myocardiopathy,1
+d-ribose,myocardiopathy,1
+Adriamycin,cardiac toxicity,1
+D-ribose,cardiotoxicity,1
+vancomycin,nephrotoxicity,1
+VCM,renal impairment,1
+oxygen,renal impairment,1
+vancomycin,renal impairment,1
+erdosteine,renal impairment,1
+superoxide,renal tubular injury,1
+VCM,renal tubular injury,1
+malondialdehyde,renal tubular injury,1
+MDA,renal tubular injury,1
+Erdosteine,nephrotoxicity,1
+VCM,necrosis,1
+VCM,atrophy,1
+VCM,desquamation,1
+erdosteine,necrosis,1
+erdosteine,atrophy,1
+erdosteine,desquamation,1
+VCM,kidney damage,1
+erdosteine,kidney damage,1
+dopamine,restless legs syndrome,1
+levodopa,RLS,1
+levodopa,restless legs syndrome,1
+mirtazapine,restless legs syndrome,1
+domperidone,restless legs syndrome,1
+Mirtazapine,RLS,1
+mirtazapine,postprandial dyspepsia,1
+domperidone,postprandial dyspepsia,1
+domperione,RLS,1
+triglycerides,prostate cancer,1
+C,prostate cancer,1
+cyproterone acetate,prostate cancer,1
+TG,prostate cancer,1
+CPA,prostate cancer,1
+cholesterols,prostate cancer,1
+CPA,coronary heart disease,1
+estrogen,hyperglyceridemic effect,1
+cholesterol,hyperglyceridemic effect,1
+CPA,hyperglyceridemic effect,1
+5-Fluorouracil,cardiotoxicity,1
+5-fluorouracil,malignancies,1
+5-fluorouracil,Cardiotoxicity,1
+5-FU,malignancies,1
+5-FU,Cardiotoxicity,1
+FBAL,precordial pain,1
+FBAL,right bundle branch block,1
+5-FU,right bundle branch block,1
+flavonoid,cardiotoxicity,1
+monohydroxyethylrutoside,cardiotoxicity,1
+iron,cardiotoxicity,1
+DOX,cardiomyocyte damage,1
+DOX,Cancer,1
+bepridil,atrial fibrillation and flutter,1
+Bpd,atrial fibrillation,1
+Bpd,atrial flutter,1
+Bpd,Tdp,1
+Bpd,torsade de pointes,1
+Bepridil hydrochloride,atrial fibrillation,1
+Bepridil hydrochloride,atrial flutter,1
+Bepridil hydrochloride,AF,1
+Bepridil hydrochloride,AFL,1
+Bepridil hydrochloride,Tdp,1
+Bepridil hydrochloride,torsade de pointes,1
+Iso,LV hypertrophy,1
+methadone,long QT syndrome,1
+methadone,QT prolongation,1
+methadone,torsades de pointes,1
+methadone,hypokalemia,1
+Methadone,QT prolongation,1
+potassium,QT prolongation,1
+methadone,Long QT syndrome,1
+nitric oxide,arterial dysfunction,1
+NO,arterial dysfunction,1
+Nomega-nitro-L-arginine,hypertension,1
+LNNA,hypertensive,1
+superoxide,hypertensive,1
+tempol,hypertensive,1
+hexamethonium,hypertensive,1
+chlorpromazine,extrapyramidal syndrome,1
+chlorpromazine,schizophrenia,1
+levodopa,stroke,1
+dopamine,impaired novel word learning,1
+Minocycline,polyarteritis nodosa,1
+Minocycline,vasculitis,1
+minocycline,myalgias,1
+minocycline,polyneuropathy,1
+minocycline,fever,1
+minocycline,palmoplantar pustulosis,1
+minocycline,testicular pain,1
+minocycline,vasculitis,1
+HBsAg,hepatitis B,1
+Eslicarbazepine acetate,seizure,1
+Eslicarbazepine acetate,seizures,1
+"S-(-)-10-acetoxy-10,11-dihydro-5H-dibenzo/b,f/azepine-5-carboxamide",seizure,1
+"S-(-)-10-acetoxy-10,11-dihydro-5H-dibenzo/b,f/azepine-5-carboxamide",seizures,1
+CBZ,seizure,1
+CBZ,seizures,1
+eslicarbazepine acetate,seizure,1
+oxcarbazepine,seizure,1
+oxcarbazepine,seizures,1
+OXC,seizure,1
+OXC,seizures,1
+carbamazepine,seizure,1
+carbamazepine,seizures,1
+BIA 2-093,seizure,1
+anthraquinones,Acute renal failure,1
+aristolochic acids,Nephropathy,1
+Chinese herbs,Nephropathy,1
+anthraquinone,acute renal failure,1
+Chinese herbal,renal injury,1
+Chinese herbal,acute renal failure,1
+diclofenac,renal injury,1
+diclofenac,acute renal failure,1
+anthraquinone,nephropathy,1
+anthraquinone,renal failure,1
+thiol,nephropathy,1
+Chloroacetaldehyde,nephropathy,1
+ifosfamide,nephropathy,1
+sulfhydryl,nephropathy,1
+ifosfamide,tumor,1
+ifosfamide,renal damage,1
+Chloroacetaldehyde,tumor,1
+Chloroacetaldehyde,renal damage,1
+CAA,tumor,1
+CAA,renal damage,1
+IFO,tumor,1
+IFO,renal damage,1
+CAA,Toxicity,1
+trypan blue,Toxicity,1
+thiols,necrosis,1
+thiol,necrosis,1
+cysteine,necrosis,1
+CAA,toxicity,1
+thiols,toxicity,1
+IFO,nephropathy,1
+pilocarpine,temporal lobe epilepsy,1
+galantamine,autistic disorder,1
+galantamine,headaches,1
+galantamine,inattention,1
+galantamine,behavioral dyscontrol,1
+galantamine,aggression,1
+olanzapine,schizophreniform disorder,1
+risperidone,weight gain,1
+hydroxychloroquine,visual field loss,1
+hydroxychloroquine,visual field abnormalities,1
+epirubicin,atrioventricular block,1
+paclitaxel,atrioventricular block,1
+non-steroidal anti-inflammatory drugs,GI bleeding,1
+non-steroidal anti-inflammatory drugs,acute myocardial infarction,1
+non-steroidal anti-inflammatory drugs,AMI,1
+COX-2 inhibitors,GI bleeding,1
+COX-2 inhibitors,acute myocardial infarction,1
+COX-2 inhibitors,AMI,1
+acetaminophen,GI bleeding,1
+acetaminophen,acute myocardial infarction,1
+aspirin,GI bleeding,1
+naproxen,GI bleeding,1
+naproxen,AMI,1
+rofecoxib,toxicity,1
+celecoxib,toxicity,1
+celecoxib,AMI,1
+Quinine,severe malaria,1
+quinine,arrhythmia,1
+dextrose,severe malaria,1
+dextrose,jaundice,1
+quinine,PVC,1
+quinine,sinoatrial block,1
+quinine,palpitation,1
+potassium,PVC,1
+quinidine,arrhythmic,1
+quinidine,arrhythmias,1
+quinidine,arrhythmia,1
+quinidine,PVC,1
+Quinine,arrhythmic,1
+Quinine,arrhythmias,1
+Quinine,PVC,1
+quinine,electrolyte disorder,1
+quinine,malaria,1
+quinine,vomiting,1
+quinine,hypokalemia,1
+quinine,diarrhea,1
+quinine,arrhythmic,1
+quinine,heart diseases,1
+zinc acetate,Wilson disease,1
+zinc acetate,anxiety,1
+Penicillamine,Wilson disease,1
+Penicillamine,anxiety,1
+Penicillamine,lichenoid dermatitis,1
+copper,toxicity,1
+copper,Wilson's disease,1
+copper,"hepatic, neurologic and psychiatric disorders",1
+penicillamine,lichenoid dermatitis,1
+penicillamine,skin lesion,1
+atropine sulphate,drop in blood pressure,1
+oxygen,drop in blood pressure,1
+glyceryl trinitrate,drop in blood pressure,1
+PEG-asparaginase,cerebral vasospasm,1
+PEG-asparaginase,acute lymphoblastic leukemia,1
+PEG-asparaginase,Acute encephalopathy,1
+cytarabine,acute lymphoblastic leukemia,1
+cytarabine,Acute encephalopathy,1
+cytarabine,visual hallucinations,1
+cytarabine,incontinence,1
+cytarabine,weakness,1
+cytarabine,acute encephalopathy,1
+cytarabine,aphasia,1
+valsartan,hypertensive,1
+valsartan,essential hypertension,1
+hydrochlorothiazide,essential hypertension,1
+lead,cognitive impairment,1
+Succimer,cognitive impairment,1
+Pb,Pb poisoning,1
+succimer,Pb poisoning,1
+Pb,"impairments in learning, attention, inhibitory control, and arousal regulation",1
+Pb,cognitive and affective dysfunction,1
+succimer,cognitive and affective dysfunction,1
+Pb,cognitive deficits,1
+Caffeine,panic attacks,1
+Caffeine,panic disorder,1
+Caffeine,depression,1
+caffeine,major depression,1
+caffeine,Mental Disorders,1
+caffeine,MD,1
+propranolol,heart failure,1
+propranolol,MR,1
+Piperacillin/tazobactam,seizure,1
+piperacillin,neurotoxicity,1
+piperacillin/tazobactam,bronchiectasis,1
+piperacillin/tazobactam,confusion,1
+piperacillin/tazobactam,secondary infection,1
+piperacillin/tazobactam,end-stage renal disease,1
+piperacillin/tazobactam,tonic-clonic seizure,1
+piperacillin/tazobactam,tremor,1
+ammonia,leukocytosis,1
+Piperacillin,encephalopathy,1
+Piperacillin,uremic,1
+piperacillin,encephalopathy,1
+"1,3-bis (2-chloroethyl)-1-nitrosoure",cortical dysplasia,1
+carmustine,cortical dysplasia,1
+MIP,seizures,1
+inositol,seizures,1
+aspirin,fever,1
+ibuprofen,fever,1
+Rifampicin,glomerulonephritis,1
+Rifampicin,staphylococcal endocarditis,1
+rifampicin,tuberculosis,1
+rifampicin,infective endocarditis,1
+rifampicin,infections,1
+rifampicin,Staphylococcal infections,1
+rifampicin,IE,1
+rifampicin,Staphylococcal IE,1
+lamivudine,chronic hepatitis B virus infection,1
+Lamivudine,chronic hepatitis B,1
+fluoxetine,hypertension,1
+serotonin,hypertension,1
+lidocaine,pain,1
+prostaglandin E2,pain,1
+PGE2,postoperative pain,1
+bupivacaine,postoperative pain,1
+prostaglandin E2,postoperative pain,1
+rofecoxib,pain,1
+PGE2,tissue injury,1
+bupivacaine,tissue injury,1
+tyrosine,urinary bladder inflammation,1
+cyclophosphamide,bladder inflammation,1
+CYP,bladder inflammation,1
+phosphatidylserine,anemia,1
+PS,anemia,1
+Ca,anemia,1
+Azathioprine,anemia,1
+epinephrine,hypotension,1
+alanine,jaundice,1
+alanine,hepatitis,1
+d4T,peripheral neuropathy,1
+d4T,rash,1
+NVP,peripheral neuropathy,1
+NVP,rash,1
+Thalidomide,sensory neurotoxicity,1
+thalidomide,sensory axonal neuropathy,1
+thalidomide,cutaneous lupus erythematosus,1
+Amiodarone,pulmonary mass,1
+Amiodarone,valvular heart disease,1
+Amiodarone,membranous glomerulonephritis,1
+Amiodarone,arrhythmic,1
+Amiodarone,tachycardia,1
+amiodarone,lung cancer,1
+amiodarone,lung mass,1
+amiodarone,pulmonary lesion,1
+amiodarone,membranous glomerulonephritis,1
+amiodarone,neoplasm,1
+sulphonylurea,type 2 diabetes,1
+sulphonylurea,coronary artery disease,1
+sulphonylureas,type 2 diabetes,1
+sulphonylureas,CAD,1
+sulphonylureas,coronary artery disease,1
+glibenclamide,type 2 diabetes,1
+glibenclamide,CAD,1
+glimepiride,type 2 diabetes,1
+glimepiride,CAD,1
+gliclazide,type 2 diabetes,1
+gliclazide,CAD,1
+glipizide,type 2 diabetes,1
+glipizide,CAD,1
+adriamycin,renal disease,1
+angiotensin II,nephropathy,1
+angiotensin II,renal disease,1
+angiotensin II,hypertensive,1
+losartan,renal disease,1
+ADR,renal disease,1
+ADR,hypertensive,1
+losartan,interstitial fibrosis,1
+losartan,chronic renal failure,1
+ADR,uraemia,1
+urea,nephropathy,1
+urea,uraemia,1
+Losartan,nephropathy,1
+Losartan,uraemia,1
+ADR,atrophy,1
+ADR,fibrosis,1
+losartan,fibrosis,1
+ADR,focal segmental glomerulosclerosis,1
+ADR,end-stage renal disease,1
+Losartan,focal segmental glomerulosclerosis,1
+Losartan,end-stage renal disease,1
+adrenaline,cardiac arrhythmias,1
+halothane,cardiac arrhythmias,1
+adrenaline,arrhythmias,1
+propranolol,ventricular tachycardia,1
+Topotecan,glioblastoma,1
+Topotecan,glioma,1
+lithium,hyperparathyroidism,1
+lithium,Primary hyperparathyroidism,1
+lithium,hypercalcemic,1
+propofol,bleeding,1
+remifentanil,bleeding,1
+valproate,Nonalcoholic fatty liver disease,1
+VPA,epilepsy,1
+Valproic acid,epilepsy,1
+VPA,nonalcoholic fatty liver disease,1
+VPA,weight loss,1
+VPA,insulin resistance,1
+VPA,hyperinsulinemia,1
+Carbimazole,ANCA positive vasculitis,1
+propylthiouracil,hyperthyroidism,1
+carbimazole,hyperthyroidism,1
+Anti-thyroid drugs,hyperthyroidism,1
+antithyroidmedications,Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis,1
+carbimazole,Graves' disease,1
+aspirin,coronary heart disease,1
+aspirin,myocardial infarctions,1
+aspirin,cardiovascular disease,1
+aspirin,stroke,1
+Aspirin,CVD,1
+aspirin,bleeding,1
+Aspirin,strokes,1
+Aspirin,myocardial infarction,1
+Aspirin,bleeding,1
+Argatroban,thrombocytopenia,1
+Argatroban,thrombosis,1
+Argatroban,HIT,1
+argatroban,hepatic impairment,1
+argatroban,obesity,1
+argatroban,bleeding,1
+heroin,Rhabdomyolysis,1
+methadone,Rhabdomyolysis,1
+methadone,rhabdomyolysis,1
+heroin,stroke,1
+6-hydroxydopamine,dyskinesias,1
+L-DOPA+benserazide,dyskinesias,1
+DA,dyskinesias,1
+K,bipolar mania,1
+ouabain,bipolar mania,1
+Na,bipolar mania,1
+ouabain,hyperlocomotion,1
+ouabain,bipolar disorder,1
+citrate,AKI,1
+citrate,fulminant liver failure,1
+acetaminophen,AKI,1
+acetaminophen,fulminant liver failure,1
+Citrate,fulminant liver failure,1
+paroxetine,Delirium,1
+flecainide,Delirium,1
+Flecainide,atrial fibrillation,1
+Flecainide,delirium,1
+sodium,delirium,1
+paroxetine,toxicity,1
+flecainide,toxicity,1
+everolimus,NSCLC,1
+rapamycin,NSCLC,1
+platinum,NSCLC,1
+RAD001,toxicity,1
+tyrosine,toxicity,1
+tyrosine,NSCLC,1
+Sirolimus,anemia,1
+rapamycin,anemia,1
+cocaine,acute coronary syndrome,1
+cocaine,ischemia,1
+cocaine,coronary vasospasm,1
+cocaine,ischemic,1
+acetaminophen,overdose,1
+acetaminophen,hypothermia,1
+vigabatrin,Binasal visual field defects,1
+VGB,visual defects,1
+VGB,epilepsy,1
+VGB,seizure,1
+vigabatrin,visual defects,1
+vigabatrin,epilepsy,1
+vigabatrin,seizure,1
+VGB,retinal toxicity,1
+Fluoxetine,memory deficits,1
+5-fluorouracil,memory deficits,1
+phenobarbital,hepatomegaly,1
+Gentamicin,Nephropathy,1
+K,Nephropathy,1
+Na,Nephropathy,1
+K,nephropathy,1
+Gentamicin,nephropathy,1
+Na,nephropathy,1
+BCNU,cognitive dysfunction,1
+carmustine,cognitive dysfunction,1
+MT,cognitive dysfunction,1
+glutathione,deterioration of learning and short-term memory,1
+BCNU,deterioration of learning and short-term memory,1
+GSH,deterioration of learning and short-term memory,1
+BCNU,tumor,1
+BCNU,necrosis,1
+MDA,tumor,1
+MDA,necrosis,1
+malondialdehyde,tumor,1
+malondialdehyde,necrosis,1
+MT,tumor,1
+MT,necrosis,1
+BCNU,toxicity,1
+GSH,toxicity,1
+MDA,toxicity,1
+MT,toxicity,1
+carbamazepine,drug hypersensitivity,1
+carbamazepine,fulminant eosinophilic,1
+MPTP,Parkinson's disease,1
+dopamine,PD,1
+levodopa,neuropsychiatric symptoms,1
+MPTP,PD,1
+MPTP,neuropsychiatric symptoms,1
+levodopa,parkinsonian disability,1
+levodopa,neuropsychiatric disorders,1
+Contrast medium,nephrotoxicity,1
+CM,nephrotoxic,1
+CM,Renal dysfunction,1
+contrast medium,nephrotoxic,1
+contrast medium,Renal dysfunction,1
+creatinine,Renal dysfunction,1
+CM,renal damage,1
+CM,toxicity,1
+acetaminophen,acute liver failure,1
+Acetaminophen,acute liver failure,1
+Acetaminophen,hepatotoxicity,1
+Acetaminophen,CLD,1
+Acetaminophen,chronic liver disease,1
+acetaminophen,chronic liver disease,1
+carrageenan,pain,1
+carrageenan,diabetic neuropathy,1
+carrageenan,inflammation,1
+CNSB002,pain,1
+CNSB002,diabetic neuropathy,1
+CNSB002,inflammation,1
+streptozotocin,pain,1
+streptozotocin,diabetic neuropathy,1
+streptozotocin,inflammation,1
+morphine,pain,1
+morphine,diabetic neuropathy,1
+morphine,inflammation,1
+STZ,pain,1
+STZ,diabetic neuropathy,1
+STZ,inflammation,1
+CNSB002,neuropathy,1
+STZ,neuropathy,1
+Heparin,HIT,1
+direct thrombin inhibitor,HIT,1
+Direct thrombin inhibitors,HIT,1
+botox,paralysis,1
+botox,adductor spasmodic dysphonia,1
+Botox,adductor spasmodic dysphonia,1
+Botox,throat pain,1
+Botox,spasmodic dysphonia,1
+cocaine,Mitochondrial impairment,1
+MitoQ,Mitochondrial impairment,1
+cocaine,mitochondrial abnormalities,1
+MitoQ,diastolic dysfunction,1
+MitoQ,mitochondrial abnormalities,1
+cocaine,mitochondrial defect,1
+Trimethoprim,hemolytic anemia,1
+angiotensin,diabetic nephropathy,1
+angiotensin,fibrosis,1
+angiotensin,diabetes,1
+angiotensin,nephropathy,1
+angiotensin,type 1 diabetes,1
+streptozotocin,fibrosis,1
+streptozotocin,nephropathy,1
+streptozotocin,type 1 diabetes,1
+STZ,fibrosis,1
+STZ,diabetes,1
+STZ,nephropathy,1
+STZ,type 1 diabetes,1
+temsirolimus,mantle cell lymphoma,1
+temsirolimus,necrotic,1
+angiotensin,Syncope,1
+angiotensin,hyperkalemia,1
+spironolactone,Syncope,1
+spironolactone,hyperkalemia,1
+aldosterone,hyperkalemia,1
+spiranolactone,hyperkalemia,1
+ramipril,hyperkalemia,1
+potassium,renal disturbance,1
+potassium,hyperkalemia,1
+bisphosphonates,Osteoporosis,1
+Alendronate,osteoporosis,1
+biphosphonate,osteoporosis,1
+bisphosphonate,pain,1
+bisphosphonate,osteoporosis,1
+methicillin,bacteremia,1
+methicillin,meningitis,1
+Nafcillin,meningitis,1
+nafcillin,bacteremia,1
+nafcillin,interstitial nephritis,1
+Daptomycin,bacteremia,1
+Daptomycin,interstitial nephritis,1
+lindane,convulsions,1
+nitric oxide,convulsions,1
+GABA,convulsions,1
+Nitric oxide,epilepsy,1
+L-arginine,epilepsy,1
+L-NAME,epilepsy,1
+lindane,epilepsy,1
+lindane,convulsive,1
+NO,seizures,1
+glucose,dementia,1
+glucose,Alzheimer's disease,1
+galactose,memory deterioration,1
+galactose,AD,1
+galactose,glucose hypometabolism,1

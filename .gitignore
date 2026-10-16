@@ -1,0 +1,16 @@
+# Private, git-ignored per this portfolio's convention -- learning files, not published
+WORKFLOW.md
+PROJECT_NARRATIVE.md
+INTERVIEW_QA.md
+INTERPRETATION.md
+
+# Blank/hint teaching scaffold -- the clean, filled-in notebook is what gets pushed
+biomedical_ner_bc5cdr_pubmedbert.ipynb
+
+# Local training checkpoint -- large, reproducible by re-running the notebook, not dumped into the repo
+ner_ckpt/
+
+# Standard
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
