@@ -74,18 +74,12 @@ relationships is meaningful validation beyond the F1 score alone.
 
 ## Learning through project
 
-Two real bugs shaped this build, neither in the modeling logic itself. First, `datasets.load_dataset` could
-never load `tner/bc5cdr` as planned, because HuggingFace's `datasets` library dropped support for
-script-based dataset loaders entirely — a real, external breaking change, fixed by fetching the same
-repository's raw JSON-lines files directly instead of going through the blocked loader. Second, the live
-demo crashed on real, longer input text because PubMedBERT's own `tokenizer_config.json` doesn't declare
-`model_max_length`, so `transformers` silently defaulted it to an effectively unlimited value instead of the
-model's real 512-token limit — invisible during training (every BC5CDR sentence is short) and only
-surfacing once multiple real abstracts were concatenated. The fix was one explicit line
-(`tokenizer.model_max_length = 512`) found by reading the actual pipeline source code rather than guessing
-at an API from memory. Both are examples of the same underlying lesson: a model or library's real behavior
-can diverge silently from its advertised defaults, and the fix is to verify directly (read the source, fetch
-the raw files) rather than assume a standard call will keep working the way it always has.
+A model or library's real behavior can diverge silently from its advertised defaults or from how a
+standard call has always worked before — a breaking upstream change to a loading mechanism, or a
+tokenizer's real token-limit defaulting differently than its own config implies, are both the kind of thing
+that stays invisible until the input shape that actually exercises them shows up. The fix in both cases was
+the same: verify directly, by reading the real source or fetching the raw files, rather than assuming a
+standard call will keep behaving the way it always has.
 
 ## Caveats
 
